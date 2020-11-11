@@ -1,841 +1,462 @@
 #EXTM3U
-#EXTINF:0, A&E
-http://regioflix.club/Sr_Regio20/tp.php?c=62&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, A+ 
-http://regioflix.club/Sr_Regio20/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, A3CINE 
-http://regioflix.club/Sr_Regio20/tp.php?c=3112&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, A3SERIES
-http://regioflix.club/Sr_Regio20/tp.php?c=2113&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, ACADEMIA
-http://regioflix.club/Sr_Regio20/tp.php?c=2703&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ACS Network
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
-#EXTINF:0, ACS Network
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
-#EXTINF:0, ADN 40 HD
-http://regioflix.club/Sr_Regio20/tp.php?c=184&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ADN40
-http://regioflix.club/Sr_Regio20/tp.php?c=40&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, ADRENALINA SPORTS HD
-http://regioflix.club/Sr_Regio20/tp.php?c=1799&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Adult Swim TV
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
-#EXTINF:0, Adult Swim TV
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
-#EXTINF:0, AL JAAZERA 
-http://regioflix.club/Sr_Regio20/tp.php?c=192&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, AMC 
-http://regioflix.club/Sr_Regio20/tp.php?c=131&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, AMC  
-http://regioflix.club/Sr_Regio20/tp.php?c=328&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ANIMAL PLANET
-http://regioflix.club/Sr_Regio20/tp.php?c=88&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ANTENA 3
-http://regioflix.club/Sr_Regio20/tp.php?c=199&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, APREDNE TV
-http://regioflix.club/Sr_Regio20/tp.php?c=401&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, AXN
-http://regioflix.club/Sr_Regio20/tp.php?c=64&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, AYM SPORTS
-http://regioflix.club/Sr_Regio20/tp.php?c=180&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, AZ CINEMA 
-http://regioflix.club/Sr_Regio20/tp.php?c=1787&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, AZ CLIC
-http://regioflix.club/Sr_Regio20/tp.php?c=223&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, AZ CLIC HD
-http://regioflix.club/Sr_Regio20/tp.php?c=11&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, AZ CORAZON 
-http://regioflix.club/Sr_Regio20/tp.php?c=70&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, AZ MUNDO
-http://regioflix.club/Sr_Regio20/tp.php?c=84&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
-#EXTINF:0, Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
-#EXTINF:0, AZTECA 7
-http://regioflix.club/Sr_Regio20/tp.php?c=21&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, AZTECA 7 HD 
-http://regioflix.club/Sr_Regio20/tp.php?c=317&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, AZTECA 7 HD (2)
-http://regioflix.club/Sr_Regio20/tp.php?c=322&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, AZTECA 7.3 (CLASES)
-http://regioflix.club/Sr_Regio20/tp.php?c=3316&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, AZTECA UNO
-http://regioflix.club/Sr_Regio20/tp.php?c=27&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, Azteca UNO 
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", SRREGIO.NET
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", OJO NO PEDIMOS 25 PESOS HAY UN FACEBOOK FALSO
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-logo="http:///www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 21.09.2020
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http:///paypal.me/SrRegio
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @Oficial.SrRegio
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
+http://regioflix.club/apoyo.mp4
+
+#EXTINF:0 tvg-logo="", France 24
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:0 tvg-logo="", DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0 tvg-logo="", NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0 tvg-logo="", Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 tvg-logo="", MegaTV (PR)
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
+#EXTINF:0 tvg-logo="", Azteca UNO 
 https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/3b3095b0-458a-429d-a267-9ac9467e51bc:BRU/master.m3u8
-#EXTINF:0, Azteca UNO 
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/3b3095b0-458a-429d-a267-9ac9467e51bc:BRU/master.m3u8
-#EXTINF:0, AZTECA UNO HD
+#EXTINF:0 tvg-logo="", Azteca 7
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
+#EXTINF:0 tvg-logo="", Vibe TV
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+#EXTINF:0 tvg-logo="", Canal 6 Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-logo="", Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0 tvg-logo="", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 tvg-logo="", Canal ONCE
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="", Quiero TV
+https://quierotvlive.tk/httplive/playlist.m3u8
+#EXTINF:0 tvg-logo="", NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="", Multivision
+https://panel.dattalive.com/8250/8250/.m3u8
+#EXTINF:0 tvg-logo="", RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:0 tvg-logo="", NexTV
+http://198.1.123.99:1935/live/myStream/.m3u8
+#EXTINF:0 tvg-logo="", Euro Latina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:0 tvg-logo="", Latinos UP
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+#EXTINF:0 tvg-logo="", TOP Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="", ACS Network
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+#EXTINF:0 tvg-logo="", Adult Swim TV
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
+#EXTINF:0 tvg-logo="", Cachipum TV
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0 tvg-logo="", Locomotion
+http://toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:0 tvg-logo="", 93.3 FM
+https://14543.live.streamtheworld.com/XHQQ_FM_SC
+#EXTINF:0 tvg-logo="", 690 RG AM
+https://19303.live.streamtheworld.com/RG690_SC
+#EXTINF:0 tvg-logo="", LA MEJOR 92.5 FM
+https://16643.live.streamtheworld.com/XHSROFM_SC
+#EXTINF:0 tvg-logo="", LA CALIENTE 94.1
+https://14943.live.streamtheworld.com/XETFM_SC
+#EXTINF:0 tvg-logo="", LA LUPE 105.3
+https://16693.live.streamtheworld.com/XHPAGFM_SC
+
+*** NACIONALES ***
+#EXTINF:-1, ONCE NINOS (CLASES)
+http://regioflix.club/Sr_Regio20/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AZTECA 7.3 (CLASES)
+http://regioflix.club/Sr_Regio20/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AZTECA UNO HD
 http://regioflix.club/Sr_Regio20/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:0, BABY FIRST
-http://regioflix.club/Sr_Regio20/tp.php?c=1984&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, BABY TV 
-http://regioflix.club/Sr_Regio20/tp.php?c=116&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, BANDAMAX SD
-http://regioflix.club/Sr_Regio20/tp.php?c=221&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, BBC SD
-http://regioflix.club/Sr_Regio20/tp.php?c=191&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, BIT ME  
-http://regioflix.club/Sr_Regio20/tp.php?c=2591&p=3&k=srregio&f=.m3u8
-#EXTINF:0, BLOOMBERG 
-http://regioflix.club/Sr_Regio20/tp.php?c=190&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, BOOMERANG
-http://regioflix.club/Sr_Regio20/tp.php?c=115&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, Cachipum TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:0, Cachipum TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:0, CANAL 4 
-http://regioflix.club/Sr_Regio20/tp.php?c=2274&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, CANAL 5
-http://regioflix.club/Sr_Regio20/tp.php?c=20&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, CANAL 5 HD (2)
-http://regioflix.club/Sr_Regio20/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:0, Canal 6 CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0, Canal 6 CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0, Canal 6 Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0, Canal 6 Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0, CANAL 8
-http://regioflix.club/Sr_Regio20/tp.php?c=2307&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, CANAL DEL CONGRESO
-http://regioflix.club/Sr_Regio20/tp.php?c=2331&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Canal ONCE
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:0, Canal ONCE
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:0, CARTOON NETWORK
-http://regioflix.club/Sr_Regio20/tp.php?c=112&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, CINECANAL
-http://regioflix.club/Sr_Regio20/tp.php?c=149&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, CINEMAX 
-http://regioflix.club/Sr_Regio20/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:0, CLARO SPORTS HD  
-http://regioflix.club/Sr_Regio20/tp.php?c=2564&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, CNN
-http://regioflix.club/Sr_Regio20/tp.php?c=185&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, CNN SD
-http://regioflix.club/Sr_Regio20/tp.php?c=186&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, CNN Ñ SD
-http://regioflix.club/Sr_Regio20/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF:0, COMEDY CENTRAL
-http://regioflix.club/Sr_Regio20/tp.php?c=340&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, COMEDY CENTRAL SD
-http://regioflix.club/Sr_Regio20/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, CURIOSITY STREAM
-http://regioflix.club/Sr_Regio20/tp.php?c=2594&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DE PELICULA + 
-http://regioflix.club/Sr_Regio20/tp.php?c=121&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DE PELICULA SD
-http://regioflix.club/Sr_Regio20/tp.php?c=335&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISCOVERY CHANNEL
-http://regioflix.club/Sr_Regio20/tp.php?c=86&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISCOVERY CIVILIZATION
-http://regioflix.club/Sr_Regio20/tp.php?c=99&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISCOVERY ID
-http://regioflix.club/Sr_Regio20/tp.php?c=68&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISCOVERY KIDS
-http://regioflix.club/Sr_Regio20/tp.php?c=109&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISCOVERY SCIENCE  
-http://regioflix.club/Sr_Regio20/tp.php?c=98&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISCOVERY THEATER
-http://regioflix.club/Sr_Regio20/tp.php?c=95&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, DISCOVERY TURBO
-http://regioflix.club/Sr_Regio20/tp.php?c=2379&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISCOVERY WORLD
-http://regioflix.club/Sr_Regio20/tp.php?c=101&p=3&k=srregio&f=.m3u8
-#EXTINF:0, DISNEY CHANNEL
-http://regioflix.club/Sr_Regio20/tp.php?c=113&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISNEY JR
-http://regioflix.club/Sr_Regio20/tp.php?c=118&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, DISNEY XD
-http://regioflix.club/Sr_Regio20/tp.php?c=111&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DISTRITO COMEDIA SD
-http://regioflix.club/Sr_Regio20/tp.php?c=78&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, DW
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0, DW
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0, DW 
-http://regioflix.club/Sr_Regio20/tp.php?c=203&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, E!
-http://regioflix.club/Sr_Regio20/tp.php?c=55&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, EL FINANCIERO HD 
-http://regioflix.club/Sr_Regio20/tp.php?c=1649&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ESPN 
-http://regioflix.club/Sr_Regio20/tp.php?c=168&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ESPN + 
-http://regioflix.club/Sr_Regio20/tp.php?c=167&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, ESPN 2
-http://regioflix.club/Sr_Regio20/tp.php?c=169&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ESPN 3 
-http://regioflix.club/Sr_Regio20/tp.php?c=345&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Euro Latina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:0, Euro Latina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:0, EUROPA CHANNEL 
-http://regioflix.club/Sr_Regio20/tp.php?c=136&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, EXCELSIOR TV
-http://regioflix.club/Sr_Regio20/tp.php?c=1449&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FILMS & ARTS
-http://regioflix.club/Sr_Regio20/tp.php?c=137&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOOD NETWORK 
-http://regioflix.club/Sr_Regio20/tp.php?c=2145&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, FOROTV HD
-http://regioflix.club/Sr_Regio20/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF:0, FOROTV SD
-http://regioflix.club/Sr_Regio20/tp.php?c=19&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, FOX  
-http://regioflix.club/Sr_Regio20/tp.php?c=46&p=3&k=srregio&f=.m3u8
-#EXTINF:0, FOX ACTION
-http://regioflix.club/Sr_Regio20/tp.php?c=336&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, FOX CINEMA SD
-http://regioflix.club/Sr_Regio20/tp.php?c=1729&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOX CLASSICS SD
-http://regioflix.club/Sr_Regio20/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:0, FOX HD 
-http://regioflix.club/Sr_Regio20/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF:0, FOX LIFE
-http://regioflix.club/Sr_Regio20/tp.php?c=77&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOX MOVIES 
-http://regioflix.club/Sr_Regio20/tp.php?c=146&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOX SERIES
-http://regioflix.club/Sr_Regio20/tp.php?c=139&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOX SPORTS
-http://regioflix.club/Sr_Regio20/tp.php?c=170&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOX SPORTS 2
-http://regioflix.club/Sr_Regio20/tp.php?c=172&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOX SPORTS 3 
-http://regioflix.club/Sr_Regio20/tp.php?c=178&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FOXN EWS
-http://regioflix.club/Sr_Regio20/tp.php?c=188&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, France 24
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:0, FRANCE 24
-http://regioflix.club/Sr_Regio20/tp.php?c=2402&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, France 24
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:0, FUEL TV HD 
-http://regioflix.club/Sr_Regio20/tp.php?c=2587&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, FX
-http://regioflix.club/Sr_Regio20/tp.php?c=60&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FX HD
-http://regioflix.club/Sr_Regio20/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF:0, FXM
-http://regioflix.club/Sr_Regio20/tp.php?c=138&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, FXM SD 
-http://regioflix.club/Sr_Regio20/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:0, GARAGE TV 
-http://regioflix.club/Sr_Regio20/tp.php?c=75&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, GLITZ
-http://regioflix.club/Sr_Regio20/tp.php?c=76&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, GOLDEN
-http://regioflix.club/Sr_Regio20/tp.php?c=123&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, GOLDEN +
-http://regioflix.club/Sr_Regio20/tp.php?c=122&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, GOLDEN EDGE
-http://regioflix.club/Sr_Regio20/tp.php?c=124&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, GOLF
-http://regioflix.club/Sr_Regio20/tp.php?c=179&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, GOURMET 
-http://regioflix.club/Sr_Regio20/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:0, H&H
-http://regioflix.club/Sr_Regio20/tp.php?c=96&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, HAVOC
-http://regioflix.club/Sr_Regio20/tp.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF:0, HISTORY
-http://regioflix.club/Sr_Regio20/tp.php?c=89&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, HLN
-http://regioflix.club/Sr_Regio20/tp.php?c=197&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, HOLA TV HD
-http://regioflix.club/Sr_Regio20/tp.php?c=219&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, I SAT  
-http://regioflix.club/Sr_Regio20/tp.php?c=135&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, IMAGEN TV  
-http://regioflix.club/Sr_Regio20/tp.php?c=2298&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, IMAGEN TV HD  
-http://regioflix.club/Sr_Regio20/tp.php?c=2606&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, JUSTICIA TV 
-http://regioflix.club/Sr_Regio20/tp.php?c=196&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, LA CALIENTE 94.1
-https://14943.live.streamtheworld.com/XETFM_SC
-#EXTINF:0, LA CALIENTE 94.1
-https://14943.live.streamtheworld.com/XETFM_SC
-#EXTINF:0, LA LUPE 105.3
-https://16693.live.streamtheworld.com/XHPAGFM_SC
-#EXTINF:0, LA LUPE 105.3
-https://16693.live.streamtheworld.com/XHPAGFM_SC
-#EXTINF:0, LA MEJOR 92.5 FM
-https://16643.live.streamtheworld.com/XHSROFM_SC
-#EXTINF:0, LA MEJOR 92.5 FM
-https://16643.live.streamtheworld.com/XHSROFM_SC
-#EXTINF:0, LAS
-http://regioflix.club/Sr_Regio20/tp.php?c=2089&p=3&k=srregio&f=.m3u8
-#EXTINF:0, LAS ESTRELLAS
-http://regioflix.club/Sr_Regio20/tp.php?c=17&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, LAS ESTRELLAS HD
-http://regioflix.club/Sr_Regio20/tp.php?c=1784&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Latinos UP
-https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
-#EXTINF:0, Latinos UP
-https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
-#EXTINF:0, LIFETIME 
-http://regioflix.club/Sr_Regio20/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:0, Locomotion
-http://toonxtv.net/hls/loco_ch/stream.m3u8
-#EXTINF:0, Locomotion
-http://toonxtv.net/hls/loco_ch/stream.m3u8
-#EXTINF:0, MAS CHIC
-http://regioflix.club/Sr_Regio20/tp.php?c=1842&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MegaTV (PR)
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-#EXTINF:0, MegaTV (PR)
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-#EXTINF:0, MEXIQUENSE TV
+#EXTINF:-1, AZ CLIC HD
+http://regioflix.club/Sr_Regio20/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, LAS ESTRELLAS
+http://regioflix.club/Sr_Regio20/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, CANAL 5
+http://regioflix.club/Sr_Regio20/tp.php?c=20&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AZTECA 7
+http://regioflix.club/Sr_Regio20/tp.php?c=21&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, NU9VE
+http://regioflix.club/Sr_Regio20/tp.php?c=24&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ONCE
+http://regioflix.club/Sr_Regio20/tp.php?c=25&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AZTECA UNO
+http://regioflix.club/Sr_Regio20/tp.php?c=27&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TELEFORMULA SD
+http://regioflix.club/Sr_Regio20/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, MEXIQUENSE TV
 http://regioflix.club/Sr_Regio20/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF:0, Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:0, Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:0, MILENIO HD
-http://regioflix.club/Sr_Regio20/tp.php?c=1250&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MILENIO SD 
-http://regioflix.club/Sr_Regio20/tp.php?c=1252&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MORBIDO
-http://regioflix.club/Sr_Regio20/tp.php?c=140&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MTV
-http://regioflix.club/Sr_Regio20/tp.php?c=212&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MTV HITS SD
-http://regioflix.club/Sr_Regio20/tp.php?c=213&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MTV LIVE
-http://regioflix.club/Sr_Regio20/tp.php?c=211&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MULTIMEDIOS CDMX
-http://regioflix.club/Sr_Regio20/tp.php?c=1253&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, MULTIMEDIOS CDMX
-http://regioflix.club/Sr_Regio20/tp.php?c=2352&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MULTIMEDIOS HD
-http://regioflix.club/Sr_Regio20/tp.php?c=2882&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, MULTIMEDIOS MTY
-http://regioflix.club/Sr_Regio20/tp.php?c=2305&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Multivision
-https://panel.dattalive.com/8250/8250/.m3u8
-#EXTINF:0, Multivision
-https://panel.dattalive.com/8250/8250/.m3u8
-#EXTINF:0, MVS TV
-http://regioflix.club/Sr_Regio20/tp.php?c=2149&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, NASA Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:0, NASA Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:0, NAT GEO  
-http://regioflix.club/Sr_Regio20/tp.php?c=91&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, NAT GEO KIDS  
-http://regioflix.club/Sr_Regio20/tp.php?c=2373&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, NAT GEO WILD
-http://regioflix.club/Sr_Regio20/tp.php?c=92&p=3&k=srregio&f=.m3u8
-#EXTINF:0, NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0, NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0, NexTV
-http://198.1.123.99:1935/live/myStream/.m3u8
-#EXTINF:0, NexTV
-http://198.1.123.99:1935/live/myStream/.m3u8
-#EXTINF:0, NICK
-http://regioflix.club/Sr_Regio20/tp.php?c=110&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, NICK 2  
+#EXTINF:-1, AZ CORAZON 
+http://regioflix.club/Sr_Regio20/tp.php?c=70&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZ MUNDO
+http://regioflix.club/Sr_Regio20/tp.php?c=84&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=317&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD (2)
+http://regioflix.club/Sr_Regio20/tp.php?c=322&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, IMAGEN TV  
+http://regioflix.club/Sr_Regio20/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS MTY
+http://regioflix.club/Sr_Regio20/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, APREDNE TV
+http://regioflix.club/Sr_Regio20/tp.php?c=401&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://regioflix.club/Sr_Regio20/tp.php?c=1253&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, NU9VE HD
+http://regioflix.club/Sr_Regio20/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, LAS ESTRELLAS HD
+http://regioflix.club/Sr_Regio20/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CANAL 5 HD (2)
+http://regioflix.club/Sr_Regio20/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, ONCE HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MVS TV
+http://regioflix.club/Sr_Regio20/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TVC
+http://regioflix.club/Sr_Regio20/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, CANAL 4 
+http://regioflix.club/Sr_Regio20/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CANAL 8
+http://regioflix.club/Sr_Regio20/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TELEVISA PUEBLA
+http://regioflix.club/Sr_Regio20/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, A+ 
+http://regioflix.club/Sr_Regio20/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TVMAS
+http://regioflix.club/Sr_Regio20/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CANAL DEL CONGRESO
+http://regioflix.club/Sr_Regio20/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://regioflix.club/Sr_Regio20/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, IMAGEN TV HD  
+http://regioflix.club/Sr_Regio20/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, ACADEMIA
+http://regioflix.club/Sr_Regio20/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS HD
+http://regioflix.club/Sr_Regio20/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
+
+
+
+
+
+
+*** INFANTILES ***
+#EXTINF:-1, TOONCAST
+http://regioflix.club/Sr_Regio20/tp.php?c=108&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY KIDS
+http://regioflix.club/Sr_Regio20/tp.php?c=109&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK
+http://regioflix.club/Sr_Regio20/tp.php?c=110&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY XD
+http://regioflix.club/Sr_Regio20/tp.php?c=111&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CARTOON NETWORK
+http://regioflix.club/Sr_Regio20/tp.php?c=112&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY CHANNEL
+http://regioflix.club/Sr_Regio20/tp.php?c=113&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BOOMERANG
+http://regioflix.club/Sr_Regio20/tp.php?c=115&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, BABY TV 
+http://regioflix.club/Sr_Regio20/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK JR
+http://regioflix.club/Sr_Regio20/tp.php?c=117&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY JR
+http://regioflix.club/Sr_Regio20/tp.php?c=118&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, NICKTOONS SD 
+http://regioflix.club/Sr_Regio20/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BABY FIRST
+http://regioflix.club/Sr_Regio20/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK 2  
 http://regioflix.club/Sr_Regio20/tp.php?c=2147&p=3&k=srregio&f=.m3u8
-#EXTINF:0, NICK JR
-http://regioflix.club/Sr_Regio20/tp.php?c=117&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, NICKTOONS SD 
-http://regioflix.club/Sr_Regio20/tp.php?c=1708&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, NTN 24
-http://regioflix.club/Sr_Regio20/tp.php?c=194&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, NU9VE
-http://regioflix.club/Sr_Regio20/tp.php?c=24&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, NU9VE HD
-http://regioflix.club/Sr_Regio20/tp.php?c=1783&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ONCE
-http://regioflix.club/Sr_Regio20/tp.php?c=25&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, ONCE HD 
-http://regioflix.club/Sr_Regio20/tp.php?c=1942&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, ONCE NINOS (CLASES)
-http://regioflix.club/Sr_Regio20/tp.php?c=3315&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, PARAMOUNT CHANNEL 
-http://regioflix.club/Sr_Regio20/tp.php?c=1726&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Quiero TV
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:0, Quiero TV
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:0, RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-#EXTINF:0, RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-#EXTINF:0, RT
-http://regioflix.club/Sr_Regio20/tp.php?c=999&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, RT ESPAÑOL
-http://regioflix.club/Sr_Regio20/tp.php?c=2091&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, SHOPPING
-http://regioflix.club/Sr_Regio20/tp.php?c=1943&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, SONY  
-http://regioflix.club/Sr_Regio20/tp.php?c=48&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, SPACE
-http://regioflix.club/Sr_Regio20/tp.php?c=129&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, STAR TVE 
-http://regioflix.club/Sr_Regio20/tp.php?c=2375&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, STUDIO UNIVERSAL
-http://regioflix.club/Sr_Regio20/tp.php?c=132&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, SUNDANCE TV
-http://regioflix.club/Sr_Regio20/tp.php?c=69&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, SYFY
-http://regioflix.club/Sr_Regio20/tp.php?c=59&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TBS SD  
-http://regioflix.club/Sr_Regio20/tp.php?c=81&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TCM
-http://regioflix.club/Sr_Regio20/tp.php?c=128&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TELEFORMULA SD
-http://regioflix.club/Sr_Regio20/tp.php?c=32&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TELEHIT +
-http://regioflix.club/Sr_Regio20/tp.php?c=220&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TELEHIT URBANO SD
-http://regioflix.club/Sr_Regio20/tp.php?c=218&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TELEMUNDO INTERNACIONAL HD
-http://regioflix.club/Sr_Regio20/tp.php?c=85&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0, Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0, TELEVISA PUEBLA
-http://regioflix.club/Sr_Regio20/tp.php?c=2312&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TL NOVELAS SD
-http://regioflix.club/Sr_Regio20/tp.php?c=83&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TLC
+#EXTINF:-1, NAT GEO KIDS  
+http://regioflix.club/Sr_Regio20/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, BIT ME  
+http://regioflix.club/Sr_Regio20/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+
+*** CINE ***
+#EXTINF:-1, A3CINE 
+http://regioflix.club/Sr_Regio20/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TBS SD  
+http://regioflix.club/Sr_Regio20/tp.php?c=81&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DE PELICULA + 
+http://regioflix.club/Sr_Regio20/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN +
+http://regioflix.club/Sr_Regio20/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN
+http://regioflix.club/Sr_Regio20/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN EDGE
+http://regioflix.club/Sr_Regio20/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TNT 
+http://regioflix.club/Sr_Regio20/tp.php?c=126&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TCM
+http://regioflix.club/Sr_Regio20/tp.php?c=128&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SPACE
+http://regioflix.club/Sr_Regio20/tp.php?c=129&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AMC 
+http://regioflix.club/Sr_Regio20/tp.php?c=131&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, STUDIO UNIVERSAL
+http://regioflix.club/Sr_Regio20/tp.php?c=132&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, I SAT  
+http://regioflix.club/Sr_Regio20/tp.php?c=135&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EUROPA CHANNEL 
+http://regioflix.club/Sr_Regio20/tp.php?c=136&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FILMS & ARTS
+http://regioflix.club/Sr_Regio20/tp.php?c=137&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FXM
+http://regioflix.club/Sr_Regio20/tp.php?c=138&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FXM SD 
+http://regioflix.club/Sr_Regio20/tp.php?c=332&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOX SERIES
+http://regioflix.club/Sr_Regio20/tp.php?c=139&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MORBIDO
+http://regioflix.club/Sr_Regio20/tp.php?c=140&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX MOVIES 
+http://regioflix.club/Sr_Regio20/tp.php?c=146&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CINECANAL
+http://regioflix.club/Sr_Regio20/tp.php?c=149&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CINEMAX 
+http://regioflix.club/Sr_Regio20/tp.php?c=158&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AMC  
+http://regioflix.club/Sr_Regio20/tp.php?c=328&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DE PELICULA SD
+http://regioflix.club/Sr_Regio20/tp.php?c=335&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX ACTION
+http://regioflix.club/Sr_Regio20/tp.php?c=336&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://regioflix.club/Sr_Regio20/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX CINEMA SD
+http://regioflix.club/Sr_Regio20/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX CLASSICS SD
+http://regioflix.club/Sr_Regio20/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AZ CINEMA 
+http://regioflix.club/Sr_Regio20/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
+http://regioflix.club/Sr_Regio20/tp.php?c=85&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX  
+http://regioflix.club/Sr_Regio20/tp.php?c=46&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, SONY  
+http://regioflix.club/Sr_Regio20/tp.php?c=48&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, WARNER  
+http://regioflix.club/Sr_Regio20/tp.php?c=52&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, E!
+http://regioflix.club/Sr_Regio20/tp.php?c=55&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, UNIVERSAL
+http://regioflix.club/Sr_Regio20/tp.php?c=57&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SYFY
+http://regioflix.club/Sr_Regio20/tp.php?c=59&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FX
+http://regioflix.club/Sr_Regio20/tp.php?c=60&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, A&E
+http://regioflix.club/Sr_Regio20/tp.php?c=62&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AXN
+http://regioflix.club/Sr_Regio20/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, UNICABLE SD
+http://regioflix.club/Sr_Regio20/tp.php?c=66&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SUNDANCE TV
+http://regioflix.club/Sr_Regio20/tp.php?c=69&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TNT SERIES
+http://regioflix.club/Sr_Regio20/tp.php?c=71&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, GLITZ
+http://regioflix.club/Sr_Regio20/tp.php?c=76&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, GOURMET 
+http://regioflix.club/Sr_Regio20/tp.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOX LIFE
+http://regioflix.club/Sr_Regio20/tp.php?c=77&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISTRITO COMEDIA SD
+http://regioflix.club/Sr_Regio20/tp.php?c=78&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TRUTV
+http://regioflix.club/Sr_Regio20/tp.php?c=79&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TL NOVELAS SD
+http://regioflix.club/Sr_Regio20/tp.php?c=83&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, LIFETIME 
+http://regioflix.club/Sr_Regio20/tp.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, ANTENA 3
+http://regioflix.club/Sr_Regio20/tp.php?c=199&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, WARNER HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=205&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, UNIVERSAL HD
+http://regioflix.club/Sr_Regio20/tp.php?c=207&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FX HD
+http://regioflix.club/Sr_Regio20/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TRUTV HD
+http://regioflix.club/Sr_Regio20/tp.php?c=215&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, HOLA TV HD
+http://regioflix.club/Sr_Regio20/tp.php?c=219&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, COMEDY CENTRAL
+http://regioflix.club/Sr_Regio20/tp.php?c=340&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, COMEDY CENTRAL SD
+http://regioflix.club/Sr_Regio20/tp.php?c=341&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, UNICABLE
+http://regioflix.club/Sr_Regio20/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MAS CHIC
+http://regioflix.club/Sr_Regio20/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, A3SERIES
+http://regioflix.club/Sr_Regio20/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
+
+*** DEPORTES ***
+#EXTINF:-1, ESPN + 
+http://regioflix.club/Sr_Regio20/tp.php?c=167&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ESPN 
+http://regioflix.club/Sr_Regio20/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, ESPN 2
+http://regioflix.club/Sr_Regio20/tp.php?c=169&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS
+http://regioflix.club/Sr_Regio20/tp.php?c=170&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 2
+http://regioflix.club/Sr_Regio20/tp.php?c=172&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TUDN
+http://regioflix.club/Sr_Regio20/tp.php?c=174&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 3 
+http://regioflix.club/Sr_Regio20/tp.php?c=178&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLF
+http://regioflix.club/Sr_Regio20/tp.php?c=179&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AYM SPORTS
+http://regioflix.club/Sr_Regio20/tp.php?c=180&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ESPN 3 
+http://regioflix.club/Sr_Regio20/tp.php?c=345&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TUDN HD (2)
+http://regioflix.club/Sr_Regio20/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADRENALINA SPORTS HD
+http://regioflix.club/Sr_Regio20/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, LAS
+http://regioflix.club/Sr_Regio20/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, HAVOC
+http://regioflix.club/Sr_Regio20/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TVC DEPORTES
+http://regioflix.club/Sr_Regio20/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CLARO SPORTS HD  
+http://regioflix.club/Sr_Regio20/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FUEL TV HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
+
+*** CULTURALES ***
+#EXTINF:-1, DISCOVERY ID
+http://regioflix.club/Sr_Regio20/tp.php?c=68&p=3&k=srregio&f=.m3u8  
+ #EXTINF:-1, GARAGE TV 
+http://regioflix.club/Sr_Regio20/tp.php?c=75&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY CHANNEL
+http://regioflix.club/Sr_Regio20/tp.php?c=86&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, ANIMAL PLANET
+http://regioflix.club/Sr_Regio20/tp.php?c=88&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, HISTORY
+http://regioflix.club/Sr_Regio20/tp.php?c=89&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NAT GEO  
+http://regioflix.club/Sr_Regio20/tp.php?c=91&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NAT GEO WILD
+http://regioflix.club/Sr_Regio20/tp.php?c=92&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://regioflix.club/Sr_Regio20/tp.php?c=95&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, H&H
+http://regioflix.club/Sr_Regio20/tp.php?c=96&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TLC
 http://regioflix.club/Sr_Regio20/tp.php?c=97&p=3&k=srregio&f=.m3u8
-#EXTINF:0, TNT 
-http://regioflix.club/Sr_Regio20/tp.php?c=126&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TNT SERIES
-http://regioflix.club/Sr_Regio20/tp.php?c=71&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TOONCAST
-http://regioflix.club/Sr_Regio20/tp.php?c=108&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TOP Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:0, TOP Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:0, TRUTV
-http://regioflix.club/Sr_Regio20/tp.php?c=79&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TRUTV HD
-http://regioflix.club/Sr_Regio20/tp.php?c=215&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TUDN
-http://regioflix.club/Sr_Regio20/tp.php?c=174&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TUDN HD (2)
-http://regioflix.club/Sr_Regio20/tp.php?c=1049&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TVC
-http://regioflix.club/Sr_Regio20/tp.php?c=2156&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TVC DEPORTES
-http://regioflix.club/Sr_Regio20/tp.php?c=2157&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, TVE
-http://regioflix.club/Sr_Regio20/tp.php?c=198&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, TVMAS
-http://regioflix.club/Sr_Regio20/tp.php?c=2324&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, UNICABLE
-http://regioflix.club/Sr_Regio20/tp.php?c=1499&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, UNICABLE SD
-http://regioflix.club/Sr_Regio20/tp.php?c=66&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, UNIVERSAL
-http://regioflix.club/Sr_Regio20/tp.php?c=57&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, UNIVERSAL HD
-http://regioflix.club/Sr_Regio20/tp.php?c=207&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, VH1 CLASSIC SD
-http://regioflix.club/Sr_Regio20/tp.php?c=214&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0, VH1 HD
-http://regioflix.club/Sr_Regio20/tp.php?c=334&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, VH1 SD 
-http://regioflix.club/Sr_Regio20/tp.php?c=217&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, Vibe TV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:0, Vibe TV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:0, WARNER  
-http://regioflix.club/Sr_Regio20/tp.php?c=52&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, WARNER HD 
-http://regioflix.club/Sr_Regio20/tp.php?c=205&p=3&k=srregio&f=.m3u8%20%20
-#EXTINF:0, WOBI 
-http://regioflix.club/Sr_Regio20/tp.php?c=102&p=3&k=srregio&f=.m3u8%20
-#EXTINF:0,*** CINE ***
-http://regioflix.club/o20/***%20CINE%20***
-#EXTINF:0,*** CULTURALES ***
-http://regioflix.club/o20/***%20CULTURALES%20***
-#EXTINF:0,*** DEPORTES ***
-http://regioflix.club/o20/***%20DEPORTES%20***
-#EXTINF:0,*** ENTRETENIMIENTO ***
-http://regioflix.club/o20/***%20ENTRETENIMIENTO%20***
-#EXTINF:0,*** INFANTILES ***
-http://regioflix.club/o20/***%20INFANTILES%20***
-#EXTINF:0,*** MUSICA ***
-http://regioflix.club/o20/***%20MUSICA%20***
-#EXTINF:0,*** NACIONALES ***
-http://regioflix.club/o20/***%20NACIONALES%20***
-#EXTINF:0,*** NOTICIAS ***
-http://regioflix.club/o20/***%20NOTICIAS%20***
-#EXTINF:0,A&E
-http://regioflix.club/Sr_Regio20/mc.php?c=1&f.m3u8
-#EXTINF:0,ADN 40
-http://regioflix.club/Sr_Regio20/mc.php?c=148&f.m3u8
-#EXTINF:0,Alf
-http://regioflix.club/Sr_Regio20/mc.php?c=278&f=.m3u8
-#EXTINF:0,AMC
-http://regioflix.club/Sr_Regio20/mc.php?c=7&f.m3u8
-#EXTINF:0,Animal Planet
-http://regioflix.club/Sr_Regio20/mc.php?c=315&f.m3u8
-#EXTINF:0,Animaniacs
-http://regioflix.club/Sr_Regio20/mc.php?c=279&f=.m3u8
-#EXTINF:0,AXN
-http://regioflix.club/Sr_Regio20/mc.php?c=2&f.m3u8
-#EXTINF:0,Az Corazon
-http://regioflix.club/Sr_Regio20/mc.php?c=4&f.m3u8
-#EXTINF:0,Az Mundo
-http://regioflix.club/Sr_Regio20/mc.php?c=5&f.m3u8
-#EXTINF:0,Azteca 7
-http://regioflix.club/Sr_Regio20/mc.php?c=147&f.m3u8
-#EXTINF:0,Azteca Uno
-http://regioflix.club/Sr_Regio20/mc.php?c=146&f.m3u8
-#EXTINF:0,Baby First
-http://regioflix.club/Sr_Regio20/mc.php?c=155&f.m3u8
-#EXTINF:0,Baby TV
-http://regioflix.club/Sr_Regio20/mc.php?c=11&f.m3u8
-#EXTINF:0,BBC World
-http://regioflix.club/Sr_Regio20/mc.php?c=10&f.m3u8
-#EXTINF:0,Bloomberg
-http://regioflix.club/Sr_Regio20/mc.php?c=13&f.m3u8
-#EXTINF:0,Bob Sponja
-http://regioflix.club/Sr_Regio20/mc.php?c=280&f=.m3u8
-#EXTINF:0,Boomerang
-http://regioflix.club/Sr_Regio20/mc.php?c=153&f.m3u8
-#EXTINF:0,Cable Noticias
-http://regioflix.club/Sr_Regio20/mc.php?c=16&f.m3u8
-#EXTINF:0,Canal 5
-http://regioflix.club/Sr_Regio20/mc.php?c=145&f.m3u8
-#EXTINF:0,Canal Claro
-http://regioflix.club/Sr_Regio20/mc.php?c=17&f.m3u8
-#EXTINF:0,Canal de las estrellas Latino
-http://regioflix.club/Sr_Regio20/mc.php?c=18&f.m3u8
-#EXTINF:0,Cantinflas
-http://regioflix.club/Sr_Regio20/mc.php?c=281&f=.m3u8
-#EXTINF:0,Cartoon Network
-http://regioflix.club/Sr_Regio20/mc.php?c=21&f.m3u8
-#EXTINF:0,Chespirito
-http://regioflix.club/Sr_Regio20/mc.php?c=282&f=.m3u8
-#EXTINF:0,Cine Canal
-http://regioflix.club/Sr_Regio20/mc.php?c=22&f.m3u8
-#EXTINF:0,Cine Latino
-http://regioflix.club/Sr_Regio20/mc.php?c=23&f.m3u8
-#EXTINF:0,Cinemax
-http://regioflix.club/Sr_Regio20/mc.php?c=316&f.m3u8
-#EXTINF:0,City TV
-http://regioflix.club/Sr_Regio20/mc.php?c=26&f.m3u8
-#EXTINF:0,Claro Cinema
-http://regioflix.club/Sr_Regio20/mc.php?c=27&f.m3u8
-#EXTINF:0,Claro Music 1
-http://regioflix.club/Sr_Regio20/mc.php?c=28&f.m3u8
-#EXTINF:0,Claro Music 2
-http://regioflix.club/Sr_Regio20/mc.php?c=29&f.m3u8
-#EXTINF:0,Claro Sports
-http://regioflix.club/Sr_Regio20/mc.php?c=30&f.m3u8
-#EXTINF:0,Claro Sports Latinoamerica
-http://regioflix.club/Sr_Regio20/mc.php?c=31&f.m3u8
-#EXTINF:0,CNN Espanol
-http://regioflix.club/Sr_Regio20/mc.php?c=14&f.m3u8
-#EXTINF:0,CNN Internacional
-http://regioflix.club/Sr_Regio20/mc.php?c=15&f.m3u8
-#EXTINF:0,Comedy Central
-http://regioflix.club/Sr_Regio20/mc.php?c=32&f.m3u8
-#EXTINF:0,Concert Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=33&f.m3u8
-#EXTINF:0,Correcaminos
-http://regioflix.club/Sr_Regio20/mc.php?c=283&f=.m3u8
-#EXTINF:0,De Pelicula
-http://regioflix.club/Sr_Regio20/mc.php?c=37&f.m3u8
-#EXTINF:0,DHE
-http://regioflix.club/Sr_Regio20/mc.php?c=34&f.m3u8
-#EXTINF:0,Dia TV
-http://regioflix.club/Sr_Regio20/mc.php?c=38&f.m3u8
-#EXTINF:0,DirecTV Sports 1
-http://regioflix.club/Sr_Regio20/mc.php?c=317&f.m3u8
-#EXTINF:0,DirecTV Sports 2
-http://regioflix.club/Sr_Regio20/mc.php?c=318&f.m3u8
-#EXTINF:0,DirecTV Sports Plus
-http://regioflix.club/Sr_Regio20/mc.php?c=319&f.m3u8
-#EXTINF:0,Discovery Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=39&f.m3u8
-#EXTINF:0,Discovery Home and Health
-http://regioflix.club/Sr_Regio20/mc.php?c=40&f.m3u8
-#EXTINF:0,Discovery Kids
-http://regioflix.club/Sr_Regio20/mc.php?c=41&f.m3u8
-#EXTINF:0,Discovery Science
-http://regioflix.club/Sr_Regio20/mc.php?c=42&f.m3u8
-#EXTINF:0,Discovery Theater
-http://regioflix.club/Sr_Regio20/mc.php?c=43&f.m3u8
-#EXTINF:0,Discovery Turbo
-http://regioflix.club/Sr_Regio20/mc.php?c=44&f.m3u8
-#EXTINF:0,Discovery World
-http://regioflix.club/Sr_Regio20/mc.php?c=45&f.m3u8
-#EXTINF:0,Disney
-http://regioflix.club/Sr_Regio20/mc.php?c=46&f.m3u8
-#EXTINF:0,Disney JR
-http://regioflix.club/Sr_Regio20/mc.php?c=47&f.m3u8
-#EXTINF:0,Disney XD
-http://regioflix.club/Sr_Regio20/mc.php?c=48&f.m3u8
-#EXTINF:0,Distrito Comedia
-http://regioflix.club/Sr_Regio20/mc.php?c=154&f.m3u8
-#EXTINF:0,Dr House
-http://regioflix.club/Sr_Regio20/mc.php?c=284&f=.m3u8
-#EXTINF:0,Dragon Ball
-http://regioflix.club/Sr_Regio20/mc.php?c=286&f=.m3u8
-#EXTINF:0,Dragon Ball GT
-http://regioflix.club/Sr_Regio20/mc.php?c=285&f=.m3u8
-#EXTINF:0,Dragon Ball SUPER
-http://regioflix.club/Sr_Regio20/mc.php?c=287&f=.m3u8
-#EXTINF:0,Dragon Ball Z
-http://regioflix.club/Sr_Regio20/mc.php?c=288&f=.m3u8
-#EXTINF:0,DW
-http://regioflix.club/Sr_Regio20/mc.php?c=35&f.m3u8
-#EXTINF:0,DW America
-http://regioflix.club/Sr_Regio20/mc.php?c=36&f.m3u8
-#EXTINF:0,E !
-http://regioflix.club/Sr_Regio20/mc.php?c=49&f.m3u8
-#EXTINF:0,El chavo del 8
-http://regioflix.club/Sr_Regio20/mc.php?c=289&f=.m3u8
-#EXTINF:0,El Gourmet
-http://regioflix.club/Sr_Regio20/mc.php?c=50&f.m3u8
-#EXTINF:0,Espn
-http://regioflix.club/Sr_Regio20/mc.php?c=140&f.m3u8
-#EXTINF:0,Espn 1 Sur
-http://regioflix.club/Sr_Regio20/mc.php?c=51&f.m3u8
-#EXTINF:0,Espn 2
-http://regioflix.club/Sr_Regio20/mc.php?c=141&f.m3u8
-#EXTINF:0,Espn 2 Sur
-http://regioflix.club/Sr_Regio20/mc.php?c=52&f.m3u8
-#EXTINF:0,Espn 3
-http://regioflix.club/Sr_Regio20/mc.php?c=142&f.m3u8
-#EXTINF:0,Espn 3 Sur
-http://regioflix.club/Sr_Regio20/mc.php?c=53&f.m3u8
-#EXTINF:0,Espn Plus Sur
-http://regioflix.club/Sr_Regio20/mc.php?c=54&f.m3u8
-#EXTINF:0,Espn Sec Network
-http://regioflix.club/Sr_Regio20/mc.php?c=139&f.m3u8
-#EXTINF:0,Espn U
-http://regioflix.club/Sr_Regio20/mc.php?c=138&f.m3u8
-#EXTINF:0,Europa Europa
-http://regioflix.club/Sr_Regio20/mc.php?c=55&f.m3u8
-#EXTINF:0,Foro TV
-http://regioflix.club/Sr_Regio20/mc.php?c=149&f.m3u8
-#EXTINF:0,Fox
-http://regioflix.club/Sr_Regio20/mc.php?c=57&f.m3u8
-#EXTINF:0,Fox Cinema Subtitulado
-http://regioflix.club/Sr_Regio20/mc.php?c=61&f.m3u8
-#EXTINF:0,Fox Life
-http://regioflix.club/Sr_Regio20/mc.php?c=65&f.m3u8
-#EXTINF:0,Fox News
-http://regioflix.club/Sr_Regio20/mc.php?c=68&f.m3u8
-#EXTINF:0,Fox Premium Action
-http://regioflix.club/Sr_Regio20/mc.php?c=58&f.m3u8
-#EXTINF:0,Fox Premium Cinema
-http://regioflix.club/Sr_Regio20/mc.php?c=60&f.m3u8
-#EXTINF:0,Fox Premium Classics
-http://regioflix.club/Sr_Regio20/mc.php?c=62&f.m3u8
-#EXTINF:0,Fox Premium Comedy
-http://regioflix.club/Sr_Regio20/mc.php?c=63&f.m3u8
-#EXTINF:0,Fox Premium Family
-http://regioflix.club/Sr_Regio20/mc.php?c=64&f.m3u8
-#EXTINF:0,Fox Premium Movies
-http://regioflix.club/Sr_Regio20/mc.php?c=67&f.m3u8
-#EXTINF:0,Fox Premium Series
-http://regioflix.club/Sr_Regio20/mc.php?c=69&f.m3u8
-#EXTINF:0,Fox Premium Series Subtitulado
-http://regioflix.club/Sr_Regio20/mc.php?c=70&f.m3u8
-#EXTINF:0,Fox Sports 1 MX
-http://regioflix.club/Sr_Regio20/mc.php?c=71&f.m3u8
-#EXTINF:0,Fox Sports 1 Sur
-http://regioflix.club/Sr_Regio20/mc.php?c=72&f.m3u8
-#EXTINF:0,Fox Sports 2 MX
-http://regioflix.club/Sr_Regio20/mc.php?c=74&f.m3u8
-#EXTINF:0,Fox Sports 2 Sur
-http://regioflix.club/Sr_Regio20/mc.php?c=73&f.m3u8
-#EXTINF:0,Fox Sports 3 MX
-http://regioflix.club/Sr_Regio20/mc.php?c=75&f.m3u8
-#EXTINF:0,Fox Sports 3 Sur
-http://regioflix.club/Sr_Regio20/mc.php?c=76&f.m3u8
-#EXTINF:0,France 24
-http://regioflix.club/Sr_Regio20/mc.php?c=77&f.m3u8
-#EXTINF:0,Futurama
-http://regioflix.club/Sr_Regio20/mc.php?c=291&f=.m3u8
-#EXTINF:0,FX
-http://regioflix.club/Sr_Regio20/mc.php?c=56&f.m3u8
-#EXTINF:0,Fx Movie
-http://regioflix.club/Sr_Regio20/mc.php?c=78&f.m3u8
-#EXTINF:0,Galatv
-http://regioflix.club/Sr_Regio20/mc.php?c=143&f.m3u8
-#EXTINF:0,Glitz
-http://regioflix.club/Sr_Regio20/mc.php?c=80&f.m3u8
-#EXTINF:0,Golden
-http://regioflix.club/Sr_Regio20/mc.php?c=81&f.m3u8
-#EXTINF:0,Golden Premium
-http://regioflix.club/Sr_Regio20/mc.php?c=82&f.m3u8
-#EXTINF:0,Golf Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=83&f.m3u8
-#EXTINF:0,H2
-http://regioflix.club/Sr_Regio20/mc.php?c=93&f.m3u8
-#EXTINF:0,HBO
-http://regioflix.club/Sr_Regio20/mc.php?c=84&f.m3u8
-#EXTINF:0,HBO 2
-http://regioflix.club/Sr_Regio20/mc.php?c=85&f.m3u8
-#EXTINF:0,HBO Family
-http://regioflix.club/Sr_Regio20/mc.php?c=86&f.m3u8
-#EXTINF:0,HBO plus
-http://regioflix.club/Sr_Regio20/mc.php?c=89&f.m3u8
-#EXTINF:0,HBO Signature
-http://regioflix.club/Sr_Regio20/mc.php?c=87&f.m3u8
-#EXTINF:0,HBO Subtitulado
-http://regioflix.club/Sr_Regio20/mc.php?c=88&f.m3u8
-#EXTINF:0,History Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=92&f.m3u8
-#EXTINF:0,HLN
-http://regioflix.club/Sr_Regio20/mc.php?c=90&f.m3u8
-#EXTINF:0,Hola TV
-http://regioflix.club/Sr_Regio20/mc.php?c=94&f.m3u8
-#EXTINF:0,HTV
-http://regioflix.club/Sr_Regio20/mc.php?c=91&f.m3u8
-#EXTINF:0,I.Sat
-http://regioflix.club/Sr_Regio20/mc.php?c=95&f.m3u8
-#EXTINF:0,Investigation Discovery
-http://regioflix.club/Sr_Regio20/mc.php?c=96&f.m3u8
-#EXTINF:0,La Pantera Rosa
-http://regioflix.club/Sr_Regio20/mc.php?c=292&f=.m3u8
-#EXTINF:0,La Teoria Del Big Bang
-http://regioflix.club/Sr_Regio20/mc.php?c=293&f=.m3u8
-#EXTINF:0,Las Estrellas
-http://regioflix.club/Sr_Regio20/mc.php?c=144&f.m3u8
-#EXTINF:0,Lifetime
-http://regioflix.club/Sr_Regio20/mc.php?c=97&f.m3u8
-#EXTINF:0,Los 3 chiflados
-http://regioflix.club/Sr_Regio20/mc.php?c=295&f=.m3u8
-#EXTINF:0,Los Caballeros del Zodiaco
-http://regioflix.club/Sr_Regio20/mc.php?c=297&f=.m3u8
-#EXTINF:0,Los Simpson
-http://regioflix.club/Sr_Regio20/mc.php?c=300&f=.m3u8
-#EXTINF:0,Los Simpson 2
-http://regioflix.club/Sr_Regio20/mc.php?c=299&f=.m3u8
-#EXTINF:0,Malcolm El De En Medio
-http://regioflix.club/Sr_Regio20/mc.php?c=301&f=.m3u8
-#EXTINF:0,Mas Chic
-http://regioflix.club/Sr_Regio20/mc.php?c=100&f.m3u8
-#EXTINF:0,Max
-http://regioflix.club/Sr_Regio20/mc.php?c=136&f.m3u8
-#EXTINF:0,Max Prime
-http://regioflix.club/Sr_Regio20/mc.php?c=135&f.m3u8
-#EXTINF:0,Max Up
-http://regioflix.club/Sr_Regio20/mc.php?c=134&f.m3u8
-#EXTINF:0,Mr. Bean
-http://regioflix.club/Sr_Regio20/mc.php?c=302&f=.m3u8
-#EXTINF:0,MTV
-http://regioflix.club/Sr_Regio20/mc.php?c=98&f.m3u8
-#EXTINF:0,MTV Hits
-http://regioflix.club/Sr_Regio20/mc.php?c=99&f.m3u8
-#EXTINF:0,Mtv Live
-http://regioflix.club/Sr_Regio20/mc.php?c=133&f.m3u8
-#EXTINF:0,Multimedios
-http://regioflix.club/Sr_Regio20/mc.php?c=150&f.m3u8
-#EXTINF:0,Naruto
-http://regioflix.club/Sr_Regio20/mc.php?c=303&f=.m3u8
-#EXTINF:0,Nat Geo Kids
-http://regioflix.club/Sr_Regio20/mc.php?c=130&f.m3u8
-#EXTINF:0,Nat Geo Kids Mex
-http://regioflix.club/Sr_Regio20/mc.php?c=129&f.m3u8
-#EXTINF:0,Nat Geo Mex
-http://regioflix.club/Sr_Regio20/mc.php?c=128&f.m3u8
-#EXTINF:0,Nat Geo Wild
-http://regioflix.club/Sr_Regio20/mc.php?c=127&f.m3u8
-#EXTINF:0,National Geographic Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=131&f.m3u8
-#EXTINF:0,NBC Universo
-http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
-#EXTINF:0,Nick 2
-http://regioflix.club/Sr_Regio20/mc.php?c=126&f.m3u8
-#EXTINF:0,Nick Jr
-http://regioflix.club/Sr_Regio20/mc.php?c=125&f.m3u8
-#EXTINF:0,Nickelodeon
-http://regioflix.club/Sr_Regio20/mc.php?c=124&f.m3u8
-#EXTINF:0,Padre De Familia
-http://regioflix.club/Sr_Regio20/mc.php?c=304&f=.m3u8
-#EXTINF:0,Paramount Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=123&f.m3u8
-#EXTINF:0,Pasiones
-http://regioflix.club/Sr_Regio20/mc.php?c=122&f.m3u8
-#EXTINF:0,Peliculas 2018
-http://regioflix.club/Sr_Regio20/mc.php?c=305&f=.m3u8
-#EXTINF:0,Pokemon
-http://regioflix.club/Sr_Regio20/mc.php?c=308&f=.m3u8
-#EXTINF:0,Smallville
-http://regioflix.club/Sr_Regio20/mc.php?c=309&f=.m3u8
-#EXTINF:0,Sony
-http://regioflix.club/Sr_Regio20/mc.php?c=120&f.m3u8
-#EXTINF:0,South Park
-http://regioflix.club/Sr_Regio20/mc.php?c=310&f=.m3u8
-#EXTINF:0,Space
-http://regioflix.club/Sr_Regio20/mc.php?c=119&f.m3u8
-#EXTINF:0,Studio Universal
-http://regioflix.club/Sr_Regio20/mc.php?c=118&f.m3u8
-#EXTINF:0,Sundance Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=117&f.m3u8
-#EXTINF:0,TBS
-http://regioflix.club/Sr_Regio20/mc.php?c=116&f.m3u8
-#EXTINF:0,TCM
-http://regioflix.club/Sr_Regio20/mc.php?c=115&f.m3u8
-#EXTINF:0,Telefórmula
-http://regioflix.club/Sr_Regio20/mc.php?c=151&f.m3u8
-#EXTINF:0,Telemundo 
-http://regioflix.club/Sr_Regio20/mc.php?c=111&f.m3u8
-#EXTINF:0,Televisa MTY
-http://regioflix.club/Sr_Regio20/mc.php?c=152&f.m3u8
-#EXTINF:0,Thundercats
-http://regioflix.club/Sr_Regio20/mc.php?c=311&f=.m3u8
-#EXTINF:0,TLC
-http://regioflix.club/Sr_Regio20/mc.php?c=114&f.m3u8
-#EXTINF:0,TNT
-http://regioflix.club/Sr_Regio20/mc.php?c=113&f.m3u8
-#EXTINF:0,TNT Series
-http://regioflix.club/Sr_Regio20/mc.php?c=112&f.m3u8
-#EXTINF:0,Tooncast
-http://regioflix.club/Sr_Regio20/mc.php?c=110&f.m3u8
-#EXTINF:0,Tru TV
-http://regioflix.club/Sr_Regio20/mc.php?c=108&f.m3u8
-#EXTINF:0,Tve
-http://regioflix.club/Sr_Regio20/mc.php?c=109&f.m3u8
-#EXTINF:0,Un Agente De Familia
-http://regioflix.club/Sr_Regio20/mc.php?c=312&f=.m3u8
-#EXTINF:0,Un Show MAS
-http://regioflix.club/Sr_Regio20/mc.php?c=313&f=.m3u8
-#EXTINF:0,Unicable
-http://regioflix.club/Sr_Regio20/mc.php?c=107&f.m3u8
-#EXTINF:0,Universal Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=106&f.m3u8
-#EXTINF:0,Univision
-http://regioflix.club/Sr_Regio20/mc.php?c=105&f.m3u8
-#EXTINF:0,Univision Deportes
-http://regioflix.club/Sr_Regio20/mc.php?c=320&f.m3u8
-#EXTINF:0,Vh1
-http://regioflix.club/Sr_Regio20/mc.php?c=104&f.m3u8
-#EXTINF:0,Vh1 Classic
-http://regioflix.club/Sr_Regio20/mc.php?c=103&f.m3u8
-#EXTINF:0,Warner Channel
-http://regioflix.club/Sr_Regio20/mc.php?c=102&f.m3u8
-#EXTINF:0,Win Sports
-http://regioflix.club/Sr_Regio20/mc.php?c=101&f.m3u8
-#EXTINF:0,X-men
-http://regioflix.club/Sr_Regio20/mc.php?c=314&f=.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE  
+http://regioflix.club/Sr_Regio20/tp.php?c=98&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://regioflix.club/Sr_Regio20/tp.php?c=99&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY WORLD
+http://regioflix.club/Sr_Regio20/tp.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TVE
+http://regioflix.club/Sr_Regio20/tp.php?c=198&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, SHOPPING
+http://regioflix.club/Sr_Regio20/tp.php?c=1943&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FOOD NETWORK 
+http://regioflix.club/Sr_Regio20/tp.php?c=2145&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, STAR TVE 
+http://regioflix.club/Sr_Regio20/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DISCOVERY TURBO
+http://regioflix.club/Sr_Regio20/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CURIOSITY STREAM
+http://regioflix.club/Sr_Regio20/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
+
+*** MUSICA ***
+#EXTINF:-1, MTV LIVE
+http://regioflix.club/Sr_Regio20/tp.php?c=211&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MTV
+http://regioflix.club/Sr_Regio20/tp.php?c=212&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MTV HITS SD
+http://regioflix.club/Sr_Regio20/tp.php?c=213&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, VH1 CLASSIC SD
+http://regioflix.club/Sr_Regio20/tp.php?c=214&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, VH1 SD 
+http://regioflix.club/Sr_Regio20/tp.php?c=217&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TELEHIT URBANO SD
+http://regioflix.club/Sr_Regio20/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TELEHIT +
+http://regioflix.club/Sr_Regio20/tp.php?c=220&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BANDAMAX SD
+http://regioflix.club/Sr_Regio20/tp.php?c=221&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZ CLIC
+http://regioflix.club/Sr_Regio20/tp.php?c=223&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, VH1 HD
+http://regioflix.club/Sr_Regio20/tp.php?c=334&p=3&k=srregio&f=.m3u8  
+
+
+*** NOTICIAS ***
+#EXTINF:-1, FOROTV HD
+http://regioflix.club/Sr_Regio20/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOROTV SD
+http://regioflix.club/Sr_Regio20/tp.php?c=19&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADN40
+http://regioflix.club/Sr_Regio20/tp.php?c=40&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADN 40 HD
+http://regioflix.club/Sr_Regio20/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN
+http://regioflix.club/Sr_Regio20/tp.php?c=185&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN SD
+http://regioflix.club/Sr_Regio20/tp.php?c=186&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN Ñ SD
+http://regioflix.club/Sr_Regio20/tp.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, WOBI 
+http://regioflix.club/Sr_Regio20/tp.php?c=102&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FOXN EWS
+http://regioflix.club/Sr_Regio20/tp.php?c=188&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BLOOMBERG 
+http://regioflix.club/Sr_Regio20/tp.php?c=190&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BBC SD
+http://regioflix.club/Sr_Regio20/tp.php?c=191&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AL JAAZERA 
+http://regioflix.club/Sr_Regio20/tp.php?c=192&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NTN 24
+http://regioflix.club/Sr_Regio20/tp.php?c=194&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, JUSTICIA TV 
+http://regioflix.club/Sr_Regio20/tp.php?c=196&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, HLN
+http://regioflix.club/Sr_Regio20/tp.php?c=197&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DW 
+http://regioflix.club/Sr_Regio20/tp.php?c=203&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, RT
+http://regioflix.club/Sr_Regio20/tp.php?c=999&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MILENIO HD
+http://regioflix.club/Sr_Regio20/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MILENIO SD 
+http://regioflix.club/Sr_Regio20/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EXCELSIOR TV
+http://regioflix.club/Sr_Regio20/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EL FINANCIERO HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
+ #EXTINF:-1, RT ESPAÑOL
+http://regioflix.club/Sr_Regio20/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FRANCE 24
+http://regioflix.club/Sr_Regio20/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
+ 
+
+
+
+  
+
