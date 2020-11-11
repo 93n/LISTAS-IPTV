@@ -1,1565 +1,377 @@
 #EXTM3U
-#EXTINF:-1 ,101.90 	HIL Amar FM (RD)
-http://node-21.zeno.fm/v3c46820fnruv?1574361481=&rj-tok=AAABbo9K_2MAqCl3pWk_YOy2eA&rj-ttl=5
-#EXTINF:-1 ,102.9 FM Radio Sancti Spiritus (Cuba)
-https://icecast.teveo.cu/NqWrgw7j
-#EXTINF:-1 ,103.90 FM Delta  La Romana (RD)
-http://radio.domiplay.net:5240/stream/1/
-#EXTINF:-1 ,104.10 	HIL70 Caliente 104  (RD)
-http://radio7a.domint.net:8064/;
-#EXTINF:-1 ,104.10 FM Sonido Alegre  Espaillat
-http://puertoplataradio.com:8006/stream/1/
-#EXTINF:-1 ,105.1 FM Mega  (RD)
-http://radio7a.domint.net:8170/stream/1/
-#EXTINF:-1 ,105.3 FM Radio Cadena Agramonte (Cuba)
-https://icecast.teveo.cu/j99xztkT
-#EXTINF:-1 ,105.30 HIL87 Vida FM  (RD)
-http://paginas.moisespaulino.com:8036/stream?type=.mp3
-#EXTINF:-1 ,105.50 Radio Ven (RD)
-http://s1media.hosting.nassever.com:6004/radioven1055
-#EXTINF:-1 ,106.10 FM Criolla  Santiago (RD)
-http://rgradio.net:8060/criolla106.mp3
-#EXTINF:-1 ,106.3 FM Perla  Puerto Plata
-http://radio7a.domint.net:8216/stream/1/
-#EXTINF:-1 ,106.9 FM Radio La Nueva  (RD)
-http://procyon.shoutca.st:8807/stream/1/
-#EXTINF:-1 ,1060 HIAJ Radio Amanecer  (RD)
-http://radioamanecer.soluvision.net:9035/;?1572058562295
-#EXTINF:-1 ,107.50 FM La Romana (RD)
-http://radio.domiplay.net:9200/stream/1/
-#EXTINF:-1 ,11 Hamaika TV
-https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
-#EXTINF:-1 ,1150 AM Radio Hispaniola (RD)
-http://streaming.radiohispaniola.com:7180/stream/1/
-#EXTINF:-1 ,1200 HIAH Radio VEN (RD)
-http://s1media.hosting.nassever.com:6002/radioven1200
-#EXTINF:-1 ,1240 Radio María  (RD)
-http://dreamsiteradiocp4.com:8100/;stream.mp3%20
-#EXTINF:-1 ,1240 Radio Vaticano
-http://live.vaticanwebradio.org/channel4.mp3
-#EXTINF:-1 ,13 Max (Argentina)
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:-1 ,1440 HIAK Radio Impacto  (RD)
-http://206.190.141.116:8074/stream
-#EXTINF:-1 ,1470 AM Vibra (RD)
-http://radio7a.domint.net:8092/stream/1/
-#EXTINF:-1 ,1640 HIC80 R. Juventus Don Bosco  (RD)
-http://paginas.moisespaulino.com:8009/live
-#EXTINF:-1 ,1TV Crimea
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 ,24 TV Culturales (Peru)
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1 ,24/7 Super Geek Heroes
-https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8
-#EXTINF:-1 ,24h
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 ,24h Catalunya
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
-#EXTINF:-1 ,25 TV
-http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
-#EXTINF:-1 ,30A Music
-http://30a-tv.com/music.m3u8
-#EXTINF:-1 ,30A TV
-http://30a-tv.com/my999.m3u8
-#EXTINF:-1 ,324
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
-#EXTINF:-1 ,33
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
-#EXTINF:-1 ,360° (Opt-2)
-http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 ,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 ,3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 ,47 Kanal
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-#EXTINF:-1 ,538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
-#EXTINF:-1 ,570 HIMS Radio Crystal  (RD)
-http://streaming.cristal570.com:7200/;.mp3
-#EXTINF:-1 ,620 HISD Radio Santo Domingo  (RD)
-http://69.163.34.102:8630/;
-#EXTINF:-1 ,650 HIAT Radio Universal (RD)
-http://192.99.44.11:1488/stream
-#EXTINF:-1 ,750 AM Radio Jesús  Santiago (RD)
-http://paginas.moisespaulino.com:8005/stream
-#EXTINF:-1 ,760 AM Radio Reloj
-https://icecast.teveo.cu/b3jbfThq
-#EXTINF:-1 ,7TV | SD
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 ,8 La Janda
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 ,86 Channel Surgut
-https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1 ,88 Stereo (Costa Rica)
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 ,88.70 La Luz (RD)
-https://streamingv2.shoutcast.com/la-luz-887-fm
-#EXTINF:-1 ,88.90 FM Disco 89  Santiago (RD)
-http://radio2.rgradio.net:9020/disco89.mp3
-#EXTINF:-1 ,89.70 HIJ43 Radio Renuevo (RD)
-http://radiotvstream.com:8031/renuevo.mp3
-#EXTINF:-1 ,9 Litoral
-https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8
-#EXTINF:-1 ,90.10 HIJ48 Fuego 90 (RD)
-http://209.126.116.143:9222/;stream.mp3
-#EXTINF:-1 ,90.30 FM Radio San Juan (RD)
-http://radio.domiplay.net:9438/stream/1/
-#EXTINF:-1 ,92.10 	HIJ76 Hits 92 (RD)
-http://radio2.rgradio.net:8520/hits92.mp3
-#EXTINF:-1 ,92.50 	HIJ83 CDN Radio (RD)
-http://104.197.151.190/cdnlive
-#EXTINF:-1 ,92.9 FM Orbita  Puerto Plata
-http://puertoplataradio.com:8004/stream/1/
-#EXTINF:-1 ,92.90 	HIJ87 Pura Vida FM (RD)
-http://23.239.68.71:9700/;stream.mp3
-#EXTINF:-1 ,93.70 	HIJ95 Latidos FM (RD)
-http://72.29.87.97:8010/stream/1/
-#EXTINF:-1 ,94.1 FM Radio Enciclopedia (Cuba)
-https://icecast.teveo.cu/9Rnrbjzq
-#EXTINF:-1 ,94.10 	HIJ99 Fidelity 94.1  (RD)
-http://playerservices.streamtheworld.com/api/livestream-redirect/FIDELITY.mp3
-#EXTINF:-1 ,94.7 FM Radio Ciudad de La Habana (Cuba)
-https://icecast.teveo.cu/g73XCjCH
-#EXTINF:-1 ,95.30 FM  Radio Arca De Salvación Puerto Plata
-http://puertoplataradio.com:8000/stream/1/
-#EXTINF:-1 ,96.7 FM Radio Rebelde (Cuba)
-https://icecast.teveo.cu/zrXXWK9F
-#EXTINF:-1 ,98.3 FM Radio Metropolitana (Cuba)
-https://icecast.teveo.cu/ktW3mW74
-#EXTINF:-1 ,99.1 FM CMBF Radio (Cuba)
-https://icecast.teveo.cu/Nbtz7HT3
-#EXTINF:-1 ,A&E
-http://cinematicket.club/tp12.php?c=62&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,A+
-http://cinematicket.club/tp12.php?c=2316&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,A+ 7.2 (Geo)
-https://aztkhlslive-i.akamaihd.net/hls/live/596132/amas/master.m3u8
-#EXTINF:-1 ,A3SERIES
-http://cinematicket.club/tp12.php?c=2113&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,ACADEMIA
-http://cinematicket.club/tp12.php?c=2703&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,ADN 40 HD
-http://cinematicket.club/tp12.php?c=184&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,ADN40
-http://cinematicket.club/tp12.php?c=40&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,ADRENALINA SPORTS HD
-http://cinematicket.club/tp12.php?c=1799&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,AIR Romana Radio (RD)
-https://14833.live.streamtheworld.com/SAM04AAC165_SC
-#EXTINF:-1 ,Akaku 55 Hawaii
-https://akaku.vod.castus.tv/live/ch3.m3u8
-#EXTINF:-1 ,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,Akudji TV
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 ,AL JAAZERA
-http://cinematicket.club/tp12.php?c=192&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 ,Aliento Vision (PR)
-http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
-#EXTINF:-1 ,Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 ,AM
-https://videos.rtva.ad/live/am/playlist.m3u8
-#EXTINF:-1 ,AM Canal (Colombia)
-http://v3.tustreaming.cl/amtv/live1/index.m3u8
-#EXTINF:-1 ,AMC
-http://cinematicket.club/tp12.php?c=131&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,AMC
-http://cinematicket.club/tp12.php?c=328&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Ame 47 (RD)
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-#EXTINF:-1 ,American Classic TV
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
-#EXTINF:-1 ,America's Voice
-https://cdnapi.kaltura.com/p/2377021/sp/237702100/playManifest/entryId/0_m2pjgwiu/format/applehttp/.m3u8
-#EXTINF:-1 ,Anexion TV 36 (Costa Rica)
-http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
-#EXTINF:-1 ,ANIMAL PLANET
-http://cinematicket.club/tp12.php?c=88&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,ANTENA 3
-http://cinematicket.club/tp12.php?c=199&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Antena21 (RD)
-http://190.122.96.188:8888/http/002
-#EXTINF:-1 ,APREDNE TV
-http://cinematicket.club/tp12.php?c=401&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Argentinisima
-http://186.0.233.76:1935/Argentinisima/argentinisima.smil/chunklist_w762494537_b1912000_sleng.m3u8
-#EXTINF:-1 ,Arirang | HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,Astrakhan 24
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 ,ATB  (Bolivia)
-http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 ,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 ,AvivamientoTV
-https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 ,AXN
-http://cinematicket.club/tp12.php?c=64&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,AYM SPORTS
-http://cinematicket.club/tp12.php?c=180&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,AZ CINEMA
-http://cinematicket.club/tp12.php?c=1787&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,AZ CLIC
-http://cinematicket.club/tp12.php?c=223&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,AZ CLIC HD
-http://cinematicket.club/tp12.php?c=11&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,AZ CORAZON
-http://cinematicket.club/tp12.php?c=70&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,AZ MUNDO
-http://cinematicket.club/tp12.php?c=84&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,AZTECA 7
-http://cinematicket.club/tp12.php?c=21&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Azteca 7 (Geo)
-https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-#EXTINF:-1 ,AZTECA 7 HD
-http://cinematicket.club/tp12.php?c=317&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,AZTECA 7 HD (2)
-http://cinematicket.club/tp12.php?c=322&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,AZTECA UNO
-http://cinematicket.club/tp12.php?c=27&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Azteca Uno (Geo)
-https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
-#EXTINF:-1 ,Azul Radio (RD)
-http://radio.domiplay.net:9300/stream/1/
-#EXTINF:-1 ,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 ,BABY FIRST
-http://cinematicket.club/tp12.php?c=1984&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,BABY TV
-http://cinematicket.club/tp12.php?c=116&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Babyradio
-http://sd396babyradio1.lcinternet.com:8000/stream
-#EXTINF:-1 ,Babyradio - Música para bailar
-http://sd396babyradio1.lcinternet.com:8009/live
-#EXTINF:-1 ,Babyradio - Nanas
-http://sd396babyradio1.lcinternet.com:8004/live
-#EXTINF:-1 ,BadenTV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 ,BajoTechoTV (RD)
-https://cdn4.hostlagarto.com:8081/bajotechotv/index.m3u8
-#EXTINF:-1 ,BANDAMAX SD
-http://cinematicket.club/tp12.php?c=221&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Bashkortostan 24
-http://live.gtrk.tv/720/b24-720.m3u8
-#EXTINF:-1 ,BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 ,BBC SD
-http://cinematicket.club/tp12.php?c=191&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,BBN Radio Español
-https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 ,Bengaleses (RD)
-http://87.98.130.255:8309/live
-#EXTINF:-1 ,Better Health
-http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w848830638.m3u8
-#EXTINF:-1 ,BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 ,BIT ME
-http://cinematicket.club/tp12.php?c=2591&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,BLOOMBERG
-http://cinematicket.club/tp12.php?c=190&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Bloomberg TV Asia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 ,Bloomberg TV Asia Live Event | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-#EXTINF:-1 ,Bloomberg TV Australia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 ,Bloomberg TV EMEA Live Event | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 ,Bloomberg TV Europe | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 ,Bloomberg TV Politics Live Event | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
-#EXTINF:-1 ,Bloomberg TV US | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 ,Bloomberg TV US Live Event | HD
-https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
-#EXTINF:-1 ,BOOMERANG
-http://cinematicket.club/tp12.php?c=115&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Boston - 7News (Opt-1)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 ,Boston - Fox News 25 (Opt-1)
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
-#EXTINF:-1 ,Brooklyn - News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
-#EXTINF:-1 ,CA Music (Music)
-https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Cadena SER - Radio Pamplona
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3
-#EXTINF:-1 ,Cadena SER - Radio Principal Monforte
-http://srv0510.lcinternet.com:8007/stream
-#EXTINF:-1 ,Cadena SER - Radio Principal Vilalba
-http://srv0510.lcinternet.com:8006/stream
-#EXTINF:-1 ,Cadena SER - Ràdio Principat d'Andorra
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3
-#EXTINF:-1 ,Cadena SER - Radio Sevilla
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
-#EXTINF:-1 ,Cadena SER - Radio Valencia
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3
-#EXTINF:-1 ,Cadena SER - Radio Valladolid
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3
-#EXTINF:-1 ,Cadena SER - Radio Vigo
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
-#EXTINF:-1 ,Cadena SER - Radio Zamora
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
-#EXTINF:-1 ,Cámara de Diputados (Chile)
-http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
-#EXTINF:-1 ,Camara de Diputados (DVR) | SD
-http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
-#EXTINF:-1 ,Camara de Diputados | SD
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:-1 ,CampusTv
-http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-1 ,Canal 10 Chetumal (México)
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 ,Canal 21 Chillán
-http://edge1.cl.grupoz.cl/canal21tv/live/chunklist_w148640593.m3u8
-#EXTINF:-1 ,Canal 21 Chillán (Chile)
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 ,Canal 26
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 ,Canal 26 | HD
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 ,CANAL 4
-http://cinematicket.club/tp12.php?c=2274&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Canal 4 | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 ,Canal 4 Tenerife | SD
-https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
-#EXTINF:-1 ,Canal 4.1  (México)
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w481386766_b13128000_sleng.m3u8
-#EXTINF:-1 ,Canal 4.2  (México)
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1657506489_b13128000_sleng.m3u8
-#EXTINF:-1 ,CANAL 5
-http://cinematicket.club/tp12.php?c=20&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,CANAL 5 HD (2)
-http://cinematicket.club/tp12.php?c=1785&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,Canal 5 Linares (Chile)
-http://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1 ,CANAL 8
-http://cinematicket.club/tp12.php?c=2307&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,CANAL DEL CONGRESO
-http://cinematicket.club/tp12.php?c=2331&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
-#EXTINF:-1 ,Canal Once IPN  Int. | HD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 ,Canal Once STD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-#EXTINF:-1 ,Canal Provincial | SD
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 ,Capital 21 | SD
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1 ,Capital TV | SD
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://cinematicket.club/tp12.php?c=112&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,CBN
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_2000_av-b.m3u8
-#EXTINF:-1 ,CBN ESPAÑOL
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 ,CBS News | HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 ,CCMA Exclusiu 1
-https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
-#EXTINF:-1 ,CCMA Exclusiu 2
-https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
-#EXTINF:-1 ,CCX Media Minnesota
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 ,CDM
-https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w335764602.m3u8
-#EXTINF:-1 ,CDM (Puerto Rico)
-http://205.164.56.130:1935/marcos536/marcos536/chunklist_w1681795664.m3u8
-#EXTINF:-1 ,CDO
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
-#EXTINF:-1 ,CDO | SD
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:-1 ,Central FM
-http://s29.myradiostream.com:4922/;listen.mp3
-#EXTINF:-1 ,Central TV | SD
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 ,CGTN (CN)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 ,CGTN Français (Opt-2)
-http://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 ,CGTN Russian (Opt-3)
-https://russian-live.cgtn.com/data/d1/hls/17592_4.m3u8
-#EXTINF:-1 ,CGTV Champaign
-http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
-#EXTINF:-1 ,ChacraTV
-http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
-#EXTINF:-1 ,Channel 11 News WPXI (Pittsburgh)
-http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 ,Cheddar Business
-https://live.chdrstatic.com/cheddar/primary/index.m3u8
-#EXTINF:-1 ,Cheddar Business
-https://live.chdrstatic.com/cheddar/primary/1.m3u8
-#EXTINF:-1 ,Cheddar News
-https://live.chdrstatic.com/cbn/primary/1.m3u8
-#EXTINF:-1 ,Chicago - NBC 5 News
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
-#EXTINF:-1 ,Cholusat Sur 36
-http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
-#EXTINF:-1 ,Christian Youth Channel
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 ,CieloTV (RD)
-https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8
-#EXTINF:-1 ,Cine Film
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,CINECANAL
-http://cinematicket.club/tp12.php?c=149&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,CINEMAX
-http://cinematicket.club/tp12.php?c=158&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,Cineseries
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ciudad TV Chaco (Argentina)
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-#EXTINF:-1 ,CLARO SPORTS HD
-http://cinematicket.club/tp12.php?c=2564&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 ,Classic Films
-https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8
-#EXTINF:-1 ,CLC (RD)
-http://castv10.plugstreaming.com:1935/clc/clc/chunklist_w1873517667.m3u8
-#EXTINF:-1 ,CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 ,CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 ,CMDV Radio Siboney - Santiago de Cuba
-https://icecast.teveo.cu/Hb9jFPns
-#EXTINF:-1 ,CN247 (Uruguay)
-https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
-#EXTINF:-1 ,CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 ,CNN
-http://cinematicket.club/tp12.php?c=185&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,CNN Ñ SD
-http://cinematicket.club/tp12.php?c=187&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,CNN SD
-http://cinematicket.club/tp12.php?c=186&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,COMEDY CENTRAL
-http://cinematicket.club/tp12.php?c=340&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,COMEDY CENTRAL SD
-http://cinematicket.club/tp12.php?c=341&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Connecticut - News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
-#EXTINF:-1 ,Connecticut - News 12 (Traffic)
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
-#EXTINF:-1 ,CTNi (Puerto Rico)
-https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w282216706_b1564000_sleng.m3u8
-#EXTINF:-1 ,CURIOSITY STREAM
-http://cinematicket.club/tp12.php?c=2594&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DE PELICULA +
-http://cinematicket.club/tp12.php?c=121&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DE PELICULA SD
-http://cinematicket.club/tp12.php?c=335&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DeporTV | SD
-https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
-#EXTINF:-1 ,Deutsche Welle | SD
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 ,Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 ,Disco Suave (RD)
-http://epsilon.shoutca.st:9309/stream/1/
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://cinematicket.club/tp12.php?c=86&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISCOVERY CIVILIZATION
-http://cinematicket.club/tp12.php?c=99&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISCOVERY ID
-http://cinematicket.club/tp12.php?c=68&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISCOVERY KIDS
-http://cinematicket.club/tp12.php?c=109&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISCOVERY SCIENCE
-http://cinematicket.club/tp12.php?c=98&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISCOVERY THEATER
-http://cinematicket.club/tp12.php?c=95&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,DISCOVERY TURBO
-http://cinematicket.club/tp12.php?c=2379&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISCOVERY WORLD
-http://cinematicket.club/tp12.php?c=101&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,DISNEY CHANNEL
-http://cinematicket.club/tp12.php?c=113&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISNEY JR
-http://cinematicket.club/tp12.php?c=118&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,DISNEY XD
-http://cinematicket.club/tp12.php?c=111&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DISTRITO COMEDIA SD
-http://cinematicket.club/tp12.php?c=78&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DJIng Ibiza | HD
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 ,DW
-http://cinematicket.club/tp12.php?c=203&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,DW Entretenimiento
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,E!
-http://cinematicket.club/tp12.php?c=55&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,EL FINANCIERO HD
-http://cinematicket.club/tp12.php?c=1649&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,El Garaje TV | SD
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 ,ElimTV (San Salvador)
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 ,Emisora Salsa (Cuba)
-http://radio.domiplay.net:2002/stream/1/
-#EXTINF:-1 ,ESNE TV
-https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:-1 ,Espace Francophone
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 ,Esperanza Tv
-https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,ESPN
-http://cinematicket.club/tp12.php?c=168&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,ESPN +
-http://cinematicket.club/tp12.php?c=167&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,ESPN 2
-http://cinematicket.club/tp12.php?c=169&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,ESPN 3
-http://cinematicket.club/tp12.php?c=345&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Esport 3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 ,esRadio
-http://livestreaming9.esradio.fm/aaclive32
-#EXTINF:-1 ,Estepona TV
-https://5b38ce71f1f00.streamlock.net/8122/8122/master.m3u8
-#EXTINF:-1 ,ETB 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 ,ETB 2
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1 ,ETBSAT | SD
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 ,Eurasia Channel Orsk (Opt-1)
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 ,Eurasia Channel Orsk (Opt-2)
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1 ,EuroLatina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:-1 ,Euronews (Russia)
-https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 ,EUROPA CHANNEL
-http://cinematicket.club/tp12.php?c=136&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,EuropaPress TV
-http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
-#EXTINF:-1 ,Euskadi Irratia
-https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/index_128_a-b.m3u8
-#EXTINF:-1 ,Euskalerria Irratia
-http://server4.beatproducciones.com:8014/;
-#EXTINF:-1 ,Evine
-https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
-#EXTINF:-1 ,EWTN (Espanol)
-https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
-#EXTINF:-1 ,EXCELSIOR TV
-http://cinematicket.club/tp12.php?c=1449&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Expo Channel
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 ,Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 ,FailArmy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,Fairfax Public Access
-http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
-#EXTINF:-1 ,Farra Play (Paraguay)
-http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:-1 ,Fashion Channel
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 ,Fashion TV (HD)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,Fashion TV (Opt-3)
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 ,Fashion TV (Opt-4)
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 ,FashionTV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 ,Fibwi Radio
-http://stream.fibwi.com:9000/stream
-#EXTINF:-1 ,Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
-#EXTINF:-1 ,Filmon 360
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 ,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 ,FILMS & ARTS
-http://cinematicket.club/tp12.php?c=137&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,First Music (Opt-1)
-http://rtmp.one.by:2300/
-#EXTINF:-1 ,First Music (Opt-2)
-http://rtmp.one.by:1300/
-#EXTINF:-1 ,First Music (Opt-3)
-http://rtmp.one.by:1200
-#EXTINF:-1 ,Flamenco Radio
-https://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/chunklist_b250000.m3u8
-#EXTINF:-1 ,Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,FOOD NETWORK
-http://cinematicket.club/tp12.php?c=2145&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Food Network UK
-http://95.86.32.7:999/food
-#EXTINF:-1 ,Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,FORO TV (Mexico)
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
-#EXTINF:-1 ,FOROTV HD
-http://cinematicket.club/tp12.php?c=4&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,FOROTV SD
-http://cinematicket.club/tp12.php?c=19&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,FOX
-http://cinematicket.club/tp12.php?c=46&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,FOX ACTION
-http://cinematicket.club/tp12.php?c=336&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,FOX CINEMA SD
-http://cinematicket.club/tp12.php?c=1729&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FOX CLASSICS SD
-http://cinematicket.club/tp12.php?c=1732&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,FOX HD
-http://cinematicket.club/tp12.php?c=201&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,Fox Life
-http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
-#EXTINF:-1 ,FOX LIFE
-http://cinematicket.club/tp12.php?c=77&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FOX MOVIES
-http://cinematicket.club/tp12.php?c=146&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 ,FOX SERIES
-http://cinematicket.club/tp12.php?c=139&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FOX SPORTS
-http://cinematicket.club/tp12.php?c=170&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FOX SPORTS 2
-http://cinematicket.club/tp12.php?c=172&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FOX SPORTS 3
-http://cinematicket.club/tp12.php?c=178&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FOXN EWS
-http://cinematicket.club/tp12.php?c=188&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FR France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 ,FRANCE 24
-http://cinematicket.club/tp12.php?c=2402&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,France 24 | HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,Frecuencia Musical Tv (Music)
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-#EXTINF:-1 ,FUEL TV HD
-http://cinematicket.club/tp12.php?c=2587&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,FX
-http://cinematicket.club/tp12.php?c=60&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FX HD
-http://cinematicket.club/tp12.php?c=209&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,FXM
-http://cinematicket.club/tp12.php?c=138&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,FXM SD
-http://cinematicket.club/tp12.php?c=332&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,GARAGE TV
-http://cinematicket.club/tp12.php?c=75&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Genial Tv
-http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,GLITZ
-http://cinematicket.club/tp12.php?c=76&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,GOLDEN
-http://cinematicket.club/tp12.php?c=123&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,GOLDEN +
-http://cinematicket.club/tp12.php?c=122&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,GOLDEN EDGE
-http://cinematicket.club/tp12.php?c=124&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,GOLF
-http://cinematicket.club/tp12.php?c=179&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,GOURMET
-http://cinematicket.club/tp12.php?c=74&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,Gracia TV
-http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
-#EXTINF:-1 ,Guitar Relax (Music)
-https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,H&H
-http://cinematicket.club/tp12.php?c=96&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,HAVOC
-http://cinematicket.club/tp12.php?c=2148&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,Hechos | SD (Ecuador)
-http://37.187.7.106/hechostv/live.m3u8
-#EXTINF:-1 ,Hermosa Radio (RD)
-http://192.99.8.170:6571/stream/1/
-#EXTINF:-1 ,HISTORY
-http://cinematicket.club/tp12.php?c=89&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,HLN
-http://cinematicket.club/tp12.php?c=197&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,HOLA TV HD
-http://cinematicket.club/tp12.php?c=219&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Hudson Valley - News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
-#EXTINF:-1 ,I SAT
-http://cinematicket.club/tp12.php?c=135&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,IMAGEN TV
-http://cinematicket.club/tp12.php?c=2298&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,IMAGEN TV HD
-http://cinematicket.club/tp12.php?c=2606&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 ,Ingushetiya TV
-http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
-#EXTINF:-1 ,Innovación Cristiana Radio (RD)
-http://69.175.13.34:9982/stream/1/
-#EXTINF:-1 ,InspirationTV
-https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_2_av-p.m3u8
-#EXTINF:-1 ,INT CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,INT TvPerú
-https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 ,Integración Radio
-http://5.135.183.124:8023/stream
-#EXTINF:-1 ,interalmería
-http://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 ,Intercomarcal TV
-http://78.41.83.88:8880/hls/tvixa.m3u8
-#EXTINF:-1 ,Investment Pitch
-http://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1 ,It's At The Movies (New!)
-https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-#EXTINF:-1 ,Its SupernaturalTV
-http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/index_1728_av-p.m3u8
-#EXTINF:-1 ,Itu TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 ,ITV Patagonia (Chile)
-http://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 ,Izvestia
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 ,Jucetv
-https://bozztv.com/36bay2/gin/giniko_jucetv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,JUSTICIA TV
-http://cinematicket.club/tp12.php?c=196&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Kalejdoskop TV
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-1 ,Kartoon Fun Time
-https://nimble.dashstreams.net/onestudio/kartoonfuntime/playlist.m3u8
-#EXTINF:-1 ,KBVR TV OSU
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1 ,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 ,Kiss FM
-http://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-1 ,Kiss FM Canarias
-http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3
-#EXTINF:-1 ,Kolo 8
-https://dai2-playlistserver.aws.syncbak.com/playlist/898825/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjczNzUsImlzcyI6IldMUyIsIm1kNSI6IjY1MjJmNGY0Nzk0YTkwNjBlOGRhNGIzZGYxOWU0NTJlIiwibWlkIjoiODk4ODI1In0.Ryr66JNAt-Tgtyti8iyVgczOialVEnptXCHmJ8m_C84
-#EXTINF:-1 ,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1 ,Krasnaja Linija
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1 ,Krik TV
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1 ,Krone Hit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
-#EXTINF:-1 ,Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 ,La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 ,La 7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:-1 ,La FloridaTV
-https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
-#EXTINF:-1 ,La Fresca FM
-http://stream.produccionesdale.com:8899/altacalidad
-#EXTINF:-1 ,La Mega FM
-http://streaming5.elitecomunicacion.es:8220/stream?type=.mp3
-#EXTINF:-1 ,La Mega Mundial
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 ,La Nueva TV
-https://5b50404ec5e4c.streamlock.net/lanueva/ngrp:lanueva_all/playlist.m3u8
-#EXTINF:-1 ,La Pintana TV
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-#EXTINF:-1 ,La Super TV (Colombia)
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-#EXTINF:-1 ,La Xarxa | SD
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1 ,Lake Havasu City 4
-https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
-#EXTINF:-1 ,Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-#EXTINF:-1 ,Lancelot TV | SD
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 ,LAS
-http://cinematicket.club/tp12.php?c=2089&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,LAS ESTRELLAS
-http://cinematicket.club/tp12.php?c=17&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,LAS ESTRELLAS HD
-http://cinematicket.club/tp12.php?c=1784&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Las Vegas - 13 Action News
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:-1 ,Latido Music
-https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 ,Latina (Peru)
-https://cdnimg-latina-pe.secure.footprint.net/latina_web/no_disponible/formats/playlist_all.m3u8
-#EXTINF:-1 ,Law & Crime Network
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 ,LDPR TV (Opt-1)
-http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1 ,LDPR TV (Opt-2)
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 ,Lebrija TV
-https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
-#EXTINF:-1 ,Lebrija TV | SD
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 ,Leominster TV Educational
-http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
-#EXTINF:-1 ,Leominster TV Government
-http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
-#EXTINF:-1 ,Leominster TV Public
-http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
-#EXTINF:-1 ,Lex TV
-http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
-#EXTINF:-1 ,Lifedesign
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
-#EXTINF:-1 ,LIFETIME
-http://cinematicket.club/tp12.php?c=94&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,LifeTV
-http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
-#EXTINF:-1 ,LifeTV Plus
-http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
-#EXTINF:-1 ,Lipetsk Time
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 ,Litus | HD
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1 ,Liveradiord (RD)
-http://edge.mixlr.com/channel/oudxg
-#EXTINF:-1 ,Loca FM
-http://audio-online.net:2300/live
-#EXTINF:-1 ,Loca FM Ambient
-http://audio-online.net:8007/live
-#EXTINF:-1 ,Loca FM Big Room
-http://audio-online.net:8001/live
-#EXTINF:-1 ,Loca FM Chill out
-http://audio-online.net:8002/live
-#EXTINF:-1 ,Loca FM Dance
-http://audio-online.net:8004/live
-#EXTINF:-1 ,Loca FM Drum&Bass
-http://audio-online.net:8021/live
-#EXTINF:-1 ,Loca FM Dub Techno
-http://audio-online.net:8015/live
-#EXTINF:-1 ,Loca FM Hard
-http://audio-online.net:8003/live
-#EXTINF:-1 ,Loca FM House
-http://audio-online.net:8005/live
-#EXTINF:-1 ,Loca FM Industrial
-http://audio-online.net:8019/live
-#EXTINF:-1 ,Loca FM Latino
-http://audio-online.net:8012/live
-#EXTINF:-1 ,Loca FM Loca 80's
-http://audio-online.net:8018/live
-#EXTINF:-1 ,Loca FM Loca 90's
-http://audio-online.net:8000/live
-#EXTINF:-1 ,Loca FM Melodic Techno
-http://audio-online.net:8011/live
-#EXTINF:-1 ,Loca FM Remember
-http://audio-online.net:8006/live
-#EXTINF:-1 ,Loca FM Sessions
-http://audio-online.net:8013/live
-#EXTINF:-1 ,Loca FM Tech House
-http://audio-online.net:8008/live
-#EXTINF:-1 ,Loca FM Techno
-http://audio-online.net:8009/live
-#EXTINF:-1 ,Loca FM Trance
-http://audio-online.net:8010/live
-#EXTINF:-1 ,Loca FM Trap
-http://audio-online.net:8014/live
-#EXTINF:-1 ,Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 ,Logos TV
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 ,London Live | HD
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 ,Long Island - News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
-#EXTINF:-1 ,Long Island - News 12 (Traffic)
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
-#EXTINF:-1 ,m2o TV (Music)
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,MAS CHIC
-http://cinematicket.club/tp12.php?c=1842&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Máster FM Madrid
-http://82.223.102.59:8002/;
-#EXTINF:-1 ,MDRTV
-https://ss6.domint.net:2946/vct_str/vctv/chunklist_w1196333672.m3u8
-#EXTINF:-1 ,Mega Plus (Chile)
-http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
-#EXTINF:-1 ,MEXIQUENSE TV
-http://cinematicket.club/tp12.php?c=44&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,Milenio | SD
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 ,MILENIO HD
-http://cinematicket.club/tp12.php?c=1250&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,MILENIO SD
-http://cinematicket.club/tp12.php?c=1252&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,MORBIDO
-http://cinematicket.club/tp12.php?c=140&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,MTV
-http://cinematicket.club/tp12.php?c=212&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,MTV (Music)
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 ,MTV Dance (Music)
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,MTV HITS SD
-http://cinematicket.club/tp12.php?c=213&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,MTV LIVE
-http://cinematicket.club/tp12.php?c=211&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,MULTIMEDIOS CDMX
-http://cinematicket.club/tp12.php?c=1253&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,MULTIMEDIOS CDMX
-http://cinematicket.club/tp12.php?c=2352&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,MULTIMEDIOS HD
-http://cinematicket.club/tp12.php?c=2882&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Multimedios Laguna | HD
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 ,Multimedios Monterrey | HD
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 ,MULTIMEDIOS MTY
-http://cinematicket.club/tp12.php?c=2305&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Multivision Federal (Argentina)
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 ,Music Top | HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 ,MusicTop (Music)
-http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1 ,MVS TV
-http://cinematicket.club/tp12.php?c=2149&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,My Planet
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
-#EXTINF:-1 ,MyComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 ,N TV MOVIES
-http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF:-1 ,NASA TV (Opt-1)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 ,NASA TV (Opt-2)
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 ,NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 ,Nastoyashcheye Vremya
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 ,NAT GEO
-http://cinematicket.club/tp12.php?c=91&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,NAT GEO KIDS
-http://cinematicket.club/tp12.php?c=2373&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,NAT GEO WILD
-http://cinematicket.club/tp12.php?c=92&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,NBC (WTVJ) (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 ,Net TV (Argentina)
-https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 ,New Jersey - News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
-#EXTINF:-1 ,New Jersey - News 12 (Traffic)
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
-#EXTINF:-1 ,New York - News 12 (Traffic)
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
-#EXTINF:-1 ,New York - News 12+
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
-#EXTINF:-1 ,NEWS 12  Brooklyn
-http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?cdnHost=167.206.237.144&callsign=N12KN
-#EXTINF:-1 ,Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-#EXTINF:-1 ,Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 ,NHK World (Alt)| HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-#EXTINF:-1 ,NHK World (JP)
-https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 ,NICK
-http://cinematicket.club/tp12.php?c=110&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,NICK 2
-http://cinematicket.club/tp12.php?c=2147&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,NICK JR
-http://cinematicket.club/tp12.php?c=117&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,NICKTOONS SD
-http://cinematicket.club/tp12.php?c=1708&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Nika TV
-http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 ,NisibonTV (RD)
-http://gmsiptv.ddns.net:8080/hls/nisibontv.m3u8
-#EXTINF:-1 ,Nius HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
-#EXTINF:-1 ,Noroeste Televisión
-https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
-#EXTINF:-1 ,NORTEvisión
-http://amaru.dyndns.org:8835/0.m3u8
-#EXTINF:-1 ,Nothing Scripted
-http://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 ,Noti Uno Puerto Rico
-https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/chunklist_w782728706.m3u8
-#EXTINF:-1 ,Novyj Mir
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 ,NRB Network
-http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,NTN 24
-http://cinematicket.club/tp12.php?c=194&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,NU9VE
-http://cinematicket.club/tp12.php?c=24&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,NU9VE HD
-http://cinematicket.club/tp12.php?c=1783&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,NYC Times Square 1
-https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
-#EXTINF:-1 ,NYC Times Square 2
-https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
-#EXTINF:-1 ,O2 Radio
-http://62.210.141.18:8000/o2radio
-#EXTINF:-1 ,o2TV
-https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,Odintsovo TV
-http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1 ,Oizmendi Telebista
-https://5940924978228.streamlock.net/8161/8161/master.m3u8
-#EXTINF:-1 ,Olelo Community Media 49
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
-#EXTINF:-1 ,Olelo Community Media 53
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
-#EXTINF:-1 ,Olelo Community Media 54
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
-#EXTINF:-1 ,Olelo Community Media 55
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
-#EXTINF:-1 ,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 ,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 ,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 ,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 ,Omaha -3News Now (New!)
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 ,ONCE
-http://cinematicket.club/tp12.php?c=25&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Once (México)
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 ,ONCE HD
-http://cinematicket.club/tp12.php?c=1942&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Once Internacional (México)
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/chunklist_w1432222924_b1000000_slesp.m3u8
-#EXTINF:-1 ,Onda Algeciras TV
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 ,Onda Cadiz Radio
-http://adc-radio-stream.flumotion.com/adc/live-radio.mp3
-#EXTINF:-1 ,Onda Cero
-http://icecast-streaming.nice264.com/ondacero
-#EXTINF:-1 ,Onda Cero Noroeste
-http://stream.ondaceronoroeste.es/ondacero-64.mp3
-#EXTINF:-1 ,Onda Mencía Radio
-http://srv0411.lcinternet.com:9000/stream
-#EXTINF:-1 ,Onda Peñes
-http://5.135.183.124:9279/stream
-#EXTINF:-1 ,Onda Regional de Murcia
-https://live.redctnet.es/live/orm/orm/playlist.m3u8
-#EXTINF:-1 ,Onda Regional Música
-https://live.redctnet.es/live/ormmusical/ormmusical/playlist.m3u8
-#EXTINF:-1 ,Onda TV 10 (RD)
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
-#EXTINF:-1 ,Onda Vasca
-https://www.ondavasca.com:8001/bizkaia
-#EXTINF:-1 ,Ovacion | SD
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 ,Palma (Barahona)
-http://radio7a.domint.net:8162/stream/1/
-#EXTINF:-1 ,PARAMOUNT CHANNEL
-http://cinematicket.club/tp12.php?c=1726&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,PE  IPe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 ,Portal FoxMix (Chile)
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 ,Pura Palabra (Puerto Rico)
-https://59825a54e4454.streamlock.net:8443/william233/william233/chunklist_w2112770980.m3u8
-#EXTINF:-1 ,Radio Alma Cristiana (RD)
-http://node-09.zeno.fm/szu33qnppyduv?rj-ttl=5&rj-tok=AAABbh4egzUAm_NL1TbNaeE8JQ
-#EXTINF:-1 ,Radio Azua Santo Domingo (RD)
-http://ny2.radiocast.us:8038/stream/1/
-#EXTINF:-1 ,Radio Camino (RD)
-https://rapidocdn.us/streaming/8108/stream
-#EXTINF:-1 ,Radio Ciudad Bandera (Cuba)
-https://icecast.teveo.cu/rvNtC9rC
-#EXTINF:-1 ,Radio Ciudad Del Mar (Cuba)
-https://icecast.teveo.cu/CL7jRXqn
-#EXTINF:-1 ,Radio CMHW (Cuba)
-https://icecast.teveo.cu/TsxMM94R
-#EXTINF:-1 ,Radio Coco (Cuba)
-https://icecast.teveo.cu/fvc4RVRz
-#EXTINF:-1 ,Radio Contact Feel Good | HD
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 ,Radio Cristiana Dominicana (RD)
-http://node-03.zeno.fm/qwfamng733duv?rj-ttl=5&rj-tok=AAABbh4Px3kAByFyg8Dp5And_A
-#EXTINF:-1 ,Radio Marti (Cuba)
-https://n07.radiojar.com/3ds9yqpgq3quv?rj-ttl=5&rj-tok=AAABbqjAwVUAN4JrsV4rCZ6YtQ
-#EXTINF:-1 ,Radio Mayabeque (Cuba)
-https://icecast.teveo.cu/Rsrm7P9h
-#EXTINF:-1 ,Radio Norte 720 AM Santiago (RD)
-http://streaming.norte720.com:7190/stream/1/
-#EXTINF:-1 ,Radio Nueva Vida (Puerto Rico)
-http://radio.ministeriotv.com:8042/stream.mp3
-#EXTINF:-1 ,Radio One Mallorca
-http://80.32.132.126:8000/;
-#EXTINF:-1 ,Radio Oro Marbella
-http://185.23.192.118:8004/;stream.mp3
-#EXTINF:-1 ,Radio Picariña
-http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3
-#EXTINF:-1 ,Radio Ribagorza
-http://85.25.217.22:8210/stream
-#EXTINF:-1 ,Radio Romanul
-http://streaming.radioromanul.es:55556/radioromanul
-#EXTINF:-1 ,Radio Sierra
-http://srv01.redsanmarcos.com:8000/stream
-#EXTINF:-1 ,Radio TeleBoston (USA) (HAITI)
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-#EXTINF:-1 ,Radio TV Neuquen (Argentina)
-http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 ,Radio Ujo
-http://91.126.223.105:8000/liveHD
-#EXTINF:-1 ,Radio Universidad de Navarra
-http://s37.myradiostream.com/8638/listen.mp3
-#EXTINF:-1 ,Radio Utopía
-http://streaming.radioutopia.org.es:8000/radio-utopia.mp3
-#EXTINF:-1 ,Radio Vallekas
-http://cervera.eldialdigital.com:8032/;
-#EXTINF:-1 ,Radio Vitoria
-https://etbavitorianogeo-lh.akamaihd.net/i/RVITORIA_1@594819/index_128_a-b.m3u8
-#EXTINF:-1 ,Radio Voz
-http://live.radiovoz.es/mp3/stream_santiago.mp3
-#EXTINF:-1 ,Radio Zaragoza
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
-#EXTINF:-1 ,Radiofusión
-http://srv0411.lcinternet.com:9005/stream
-#EXTINF:-1 ,Radiolé
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
-#EXTINF:-1 ,Radost Moya
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
-#EXTINF:-1 ,Ratnik
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 ,RBC (Opt-1)
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 ,RBC (Opt-2)
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 ,RBC (Opt-3)
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 ,RBC (Opt-4)
-http://online-video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 ,RCG | SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
-#EXTINF:-1 ,RCG 2 | SD
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 ,RCG 3 | SD
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 ,RCG TV1 (México)
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 ,Ready TV (RD)
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:-1 ,Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w1507762007.m3u8
-#EXTINF:-1 ,Red Advenir (Bolivia)
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist_w1291195276.m3u8
-#EXTINF:-1 ,Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 ,Red Bull TV (Opt-2)
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 ,Red Bull TV (UHD)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 ,RedBull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1 ,Rede Metropole
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,Redentor104fm (Puerto Rico)
-http://livestreamcdn.net:8008/stream?type=.mp3
-#EXTINF:-1 ,ReformaTV
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8
-#EXTINF:-1 ,RETRO TV (Music)
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,Retroplus Tv (Music)
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 ,Revelation TV
-http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 ,RiberaTV
-https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 ,RMC Info Talk Sport
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:-1 ,RNA
-http://videos.rtva.ad:1935/live/rna/playlist.m3u8
-#EXTINF:-1 ,RNN (RD)
-https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
-#EXTINF:-1 ,RocaVision (RD)
-http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
-#EXTINF:-1 ,RomanaTV(RD)
-http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1 ,Romantísima (RD)
-http://node-07.zeno.fm/nqu2g6e6queuv?rj-ttl=5&rj-tok=AAABbh31B9wAipy_1Fq40yUqvg
-#EXTINF:-1 ,RT
-http://cinematicket.club/tp12.php?c=999&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,RT
-https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 ,RT America (RU) (Opt-1)
-https://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 ,RT Documentary
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 ,RT Documentary
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 ,RT ESPAÑOL
-http://cinematicket.club/tp12.php?c=2091&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 ,RT UK (RU)
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 ,RTP (Bolivia)
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-#EXTINF:-1 ,RTV
-https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 ,Rtv ce
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 ,RUTV (Opt-2)
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 ,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,S1 Surgut
-https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 ,Sabor a merengue (RD)
-http://ss6.domint.net:2004/sam_str/sabor-video/chunklist_w533683600.m3u8
-#EXTINF:-1 ,SaludTV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
-#EXTINF:-1 ,SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
-#EXTINF:-1 ,SBT | HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 ,Scientology
-https://stream.scientology.org/master.m3u8
-#EXTINF:-1 ,Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 ,Seattle - KIRO 7 News
-http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
-#EXTINF:-1 ,Seattle - KOMO 4 News
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 ,Sever Naryan-Mar (Opt-1)
-http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
-#EXTINF:-1 ,Sever Naryan-Mar (Opt-2)
-http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1 ,Sever Naryan-Mar (Opt-3)
-http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
-#EXTINF:-1 ,SGDF 24 Sverdlov
-http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
-#EXTINF:-1 ,Shalom TV
-https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1625794902.m3u8
-#EXTINF:-1 ,Shanson TV (Opt-1)
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1 ,Shanson TV (Opt-2)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 ,Shanson TV (Opt-3)
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1 ,Shchyolkovo TV
-http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 ,Sheffield Live! 93.2 FM
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 ,SHOPPING
-http://cinematicket.club/tp12.php?c=1943&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Sidewalks
-http://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 ,Sipse TV Cancun (México)
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 ,SiTV (Honduras)
-http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
-#EXTINF:-1 ,SiTV (RD)
-http://190.122.104.221/Player/sitv.m3u8
-#EXTINF:-1 ,Sky News (Alt) | HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 ,Sky News | HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-#EXTINF:-1 ,Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 ,Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 ,Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 ,Smaylik TV
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 ,Smile of a Child  (Kids)
-https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SobrenaturalTV
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1350668781.m3u8
-#EXTINF:-1 ,Solidaria TV
-http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 ,SONY
-http://cinematicket.club/tp12.php?c=48&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,SPACE
-http://cinematicket.club/tp12.php?c=129&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 ,STAR TVE
-http://cinematicket.club/tp12.php?c=2375&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Stream Habana Radio
-http://media.ohc.cu/habanaradio
-#EXTINF:-1 ,Stream Radio 26 (Cuba)
-https://icecast.teveo.cu/LsxKNz7b
-#EXTINF:-1 ,Stream Radio Bayamo (Cuba)
-https://icecast.teveo.cu/7hdNcTbM
-#EXTINF:-1 ,Stream Radio Guamá (Cuba)
-https://icecast.teveo.cu/ngcdcV3k
-#EXTINF:-1 ,Stream Radio Progreso (Cuba)
-https://icecast.teveo.cu/XjfW7qWN
-#EXTINF:-1 ,Stream Radio Revolución (Cuba)
-https://icecast.teveo.cu/C9vVPN7h
-#EXTINF:-1 ,Stream Radio Taino (Cuba)
-https://icecast.teveo.cu/3MCwWg3V
-#EXTINF:-1 ,STUDIO UNIVERSAL
-http://cinematicket.club/tp12.php?c=132&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,SUNDANCE TV
-http://cinematicket.club/tp12.php?c=69&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,SYFY
-http://cinematicket.club/tp12.php?c=59&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:-1 ,TBS SD
-http://cinematicket.club/tp12.php?c=81&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,TCM
-http://cinematicket.club/tp12.php?c=128&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TCT Kids (English)
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF:-1 ,Tele Islas | SD
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 ,Teleceiba Canal 7 | SD
-http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1 ,Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 ,TELEFORMULA SD
-http://cinematicket.club/tp12.php?c=32&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,TELEHIT +
-http://cinematicket.club/tp12.php?c=220&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TELEHIT URBANO SD
-http://cinematicket.club/tp12.php?c=218&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Telemax | HD
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 ,TELEMUNDO INTERNACIONAL HD
-http://cinematicket.club/tp12.php?c=85&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 ,TeleSafor | HD
-http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:-1 ,TELEVISA PUEBLA
-http://cinematicket.club/tp12.php?c=2312&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Televisión del Este (RD)
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
-#EXTINF:-1 ,Televisión Mogán
-https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8
-#EXTINF:-1 ,Televisora de Oriente (Venezuela)
-http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
-#EXTINF:-1 ,Tempe 11
-http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
-#EXTINF:-1 ,TEN Honduras | HD
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-#EXTINF:-1 ,Tenerife TV
-http://livestream.iter.es:9876/tdt/tdt.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 ,Texas Student TV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 ,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 ,The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 ,The Beach Show
-http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 ,The Boat Show
-https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
-#EXTINF:-1 ,The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 ,The Box FM
-http://listen128.radionomy.com/thebox
-#EXTINF:-1 ,The Bronx - News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
-#EXTINF:-1 ,The now network
-https://live-h1.frontlayer.net/fl619843/live/chunks.m3u8
-#EXTINF:-1 ,The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
-#EXTINF:-1 ,The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 ,The Titanic Channel
-https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-#EXTINF:-1 ,The Weather Channel | HD
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 ,The Weather Network
-http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-#EXTINF:-1 ,The Works
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 ,Ticavision | SD
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 ,Tivikom Ulan-Udje
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 ,Tjumenskoe Vremja
-http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1 ,TL NOVELAS SD
-http://cinematicket.club/tp12.php?c=83&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TLC
-http://cinematicket.club/tp12.php?c=97&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 ,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-1 ,TMTV  (México)
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
-#EXTINF:-1 ,TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,TNT
-http://cinematicket.club/tp12.php?c=126&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TNT SERIES
-http://cinematicket.club/tp12.php?c=71&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Tolyatti 24
-http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
-#EXTINF:-1 ,TOONCAST
-http://cinematicket.club/tp12.php?c=108&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Top Radio
-http://18003.live.streamtheworld.com/TOPRADIO_SC
-#EXTINF:-1 ,Town of Vienna Community Network (Opt-2)
-https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
-#EXTINF:-1 ,TRA (RD)
-https://ss4.domint.net:3008/tra_str/canal45/chunklist_w247528697.m3u8
-#EXTINF:-1 ,Trebujena TV
-http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-#EXTINF:-1 ,Trinity Channel
-http://rtmp1.abnsat.com/hls/trinity.m3u8
-#EXTINF:-1 ,TRO Soyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 ,TRUTV
-http://cinematicket.club/tp12.php?c=79&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,TRUTV HD
-http://cinematicket.club/tp12.php?c=215&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TUDN
-http://cinematicket.club/tp12.php?c=174&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TUDN HD (2)
-http://cinematicket.club/tp12.php?c=1049&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,Tugan Tel
-http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
-#EXTINF:-1 ,Turbo Mix Radio TV | SD
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-#EXTINF:-1 ,TuristikTV
-https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
-#EXTINF:-1 ,TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 ,TV Canal Vasco
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1 ,TV Caxias
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,TV Centre
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF:-1 ,TV Centro Andalucía
-https://5b59c7a47236a.streamlock.net/TVCENTRO/TVCENTRO/master.m3u8
-#EXTINF:-1 ,TV Chile
-http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
-#EXTINF:-1 ,TV Cultura PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 ,TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 ,TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,TV Diocesana Toledo
-https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
-#EXTINF:-1 ,TV Educativa (Opt-1)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 ,TV Educativa (Opt-2)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 ,TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 ,TV Galicia America | SD
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,TV Galicia Europa | SD
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,TV Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:-1 ,TV Gubernia Voronezh
-http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
-#EXTINF:-1 ,TV MARTÍ (Cuba)
-https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 ,TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 ,TV Metropolitana Rio
-https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,TV Montaña
-https://ss6.domint.net:3060/tvm_str/montanatv/playlist.m3u8
-#EXTINF:-1 ,TV Peru (Alt) | SD
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 ,TV Senado
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 ,TV vconline.cl (Chile)
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1 ,TV5 Monde Info | FHD
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 ,TVC
-http://cinematicket.club/tp12.php?c=2156&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,TVC DEPORTES
-http://cinematicket.club/tp12.php?c=2157&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TVE
-http://cinematicket.club/tp12.php?c=198&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,TVEPACO (Venezuela)
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
-#EXTINF:-1 ,TVMAS
-http://cinematicket.club/tp12.php?c=2324&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,TVN Señal de Pruebas | HD
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1 ,TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 ,UesTV
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 ,UFC NETWORK
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-#EXTINF:-1 ,UMAG TV
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1 ,UNICABLE
-http://cinematicket.club/tp12.php?c=1499&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,UNICABLE SD
-http://cinematicket.club/tp12.php?c=66&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Unidos En La Visión (RD)
-http://puertoplataradio.com:8010/stream/1/
-#EXTINF:-1 ,UNIVERSAL
-http://cinematicket.club/tp12.php?c=57&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,UNIVERSAL HD
-http://cinematicket.club/tp12.php?c=207&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,USA Today
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
-#EXTINF:-1 ,VH1 CLASSIC SD
-http://cinematicket.club/tp12.php?c=214&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,VH1 HD
-http://cinematicket.club/tp12.php?c=334&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,VH1 SD
-http://cinematicket.club/tp12.php?c=217&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Viva Cristo TV
-http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
-#EXTINF:-1 ,VoA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 ,VTV
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
-#EXTINF:-1 ,VTV 2
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1 ,VTV Viña del Mar (Chile)
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 ,WARNER
-http://cinematicket.club/tp12.php?c=52&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,WARNER HD
-http://cinematicket.club/tp12.php?c=205&p=3&k=tecnotv&f=.m3u8%20%20
-#EXTINF:-1 ,Watchmen Broadcasting
-https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1233458/playlist.m3u8
-#EXTINF:-1 ,Weather Nation | HD
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 ,Westchester - News 12
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
-#EXTINF:-1 ,WOBI
-http://cinematicket.club/tp12.php?c=102&p=3&k=tecnotv&f=.m3u8%20
-#EXTINF:-1 ,World Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,Zoo kids
-http://190.122.96.188:8888/http/014
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="",GEOMEX
+http://62.210.139.229:25461/9115059399/4414261712/40
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",15/Oct/2020
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt6105098_LAT_HD.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="",Telegram: @tecnotv
+http://goo
+
+
+#EXTINF:-1, AZ CLIC HD
+http://cinematicket.club/cantp.php?c=11&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, LAS ESTRELLAS
+http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, CANAL 5
+http://cinematicket.club/cantp.php?c=20&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, AZTECA 7
+http://cinematicket.club/cantp.php?c=21&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, NU9VE
+http://cinematicket.club/cantp.php?c=24&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ONCE
+http://cinematicket.club/cantp.php?c=25&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, AZTECA UNO
+http://cinematicket.club/cantp.php?c=27&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TELEFORMULA SD
+http://cinematicket.club/cantp.php?c=32&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, MEXIQUENSE TV
+http://cinematicket.club/cantp.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AZ CORAZON 
+http://cinematicket.club/cantp.php?c=70&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZ MUNDO
+http://cinematicket.club/cantp.php?c=84&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD 
+http://cinematicket.club/cantp.php?c=317&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD (2)
+http://cinematicket.club/cantp.php?c=322&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, IMAGEN TV  
+http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS MTY
+http://cinematicket.club/cantp.php?c=2305&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, APREDNE TV
+http://cinematicket.club/cantp.php?c=401&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://cinematicket.club/cantp.php?c=1253&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, NU9VE HD
+http://cinematicket.club/cantp.php?c=1783&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, LAS ESTRELLAS HD
+http://cinematicket.club/cantp.php?c=1784&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CANAL 5 HD (2)
+http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, ONCE HD 
+http://cinematicket.club/cantp.php?c=1942&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MVS TV
+http://cinematicket.club/cantp.php?c=2149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TVC
+http://cinematicket.club/cantp.php?c=2156&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, CANAL 4 
+http://cinematicket.club/cantp.php?c=2274&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CANAL 8
+http://cinematicket.club/cantp.php?c=2307&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TELEVISA PUEBLA
+http://cinematicket.club/cantp.php?c=2312&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, A+ 
+http://cinematicket.club/cantp.php?c=2316&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TVMAS
+http://cinematicket.club/cantp.php?c=2324&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CANAL DEL CONGRESO
+http://cinematicket.club/cantp.php?c=2331&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://cinematicket.club/cantp.php?c=2352&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, IMAGEN TV HD  
+http://cinematicket.club/cantp.php?c=2606&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, ACADEMIA
+http://cinematicket.club/cantp.php?c=2703&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS HD
+http://cinematicket.club/cantp.php?c=2882&p=3&k=tecnotv&f=.m3u8  
+
+
+*** INFANTILES ***
+#EXTINF:-1, TOONCAST
+http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY KIDS
+http://cinematicket.club/cantp.php?c=109&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NICK
+http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISNEY XD
+http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CARTOON NETWORK
+http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISNEY CHANNEL
+http://cinematicket.club/cantp.php?c=113&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BOOMERANG
+http://cinematicket.club/cantp.php?c=115&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, BABY TV 
+http://cinematicket.club/cantp.php?c=116&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NICK JR
+http://cinematicket.club/cantp.php?c=117&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISNEY JR
+http://cinematicket.club/cantp.php?c=118&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, NICKTOONS SD 
+http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BABY FIRST
+http://cinematicket.club/cantp.php?c=1984&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NICK 2  
+http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, NAT GEO KIDS  
+http://cinematicket.club/cantp.php?c=2373&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, BIT ME  
+http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
+
+*** CINE ***
+#EXTINF:-1, TBS SD  
+http://cinematicket.club/cantp.php?c=81&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, DE PELICULA + 
+http://cinematicket.club/cantp.php?c=121&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLDEN +
+http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLDEN
+http://cinematicket.club/cantp.php?c=123&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLDEN EDGE
+http://cinematicket.club/cantp.php?c=124&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TNT 
+http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TCM
+http://cinematicket.club/cantp.php?c=128&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, SPACE
+http://cinematicket.club/cantp.php?c=129&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AMC 
+http://cinematicket.club/cantp.php?c=131&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, STUDIO UNIVERSAL
+http://cinematicket.club/cantp.php?c=132&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, I SAT  
+http://cinematicket.club/cantp.php?c=135&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, EUROPA CHANNEL 
+http://cinematicket.club/cantp.php?c=136&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FILMS & ARTS
+http://cinematicket.club/cantp.php?c=137&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FXM
+http://cinematicket.club/cantp.php?c=138&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FXM SD 
+http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, FOX SERIES
+http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MORBIDO
+http://cinematicket.club/cantp.php?c=140&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX MOVIES 
+http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CINECANAL
+http://cinematicket.club/cantp.php?c=149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CINEMAX 
+http://cinematicket.club/cantp.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AMC  
+http://cinematicket.club/cantp.php?c=328&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DE PELICULA SD
+http://cinematicket.club/cantp.php?c=335&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX ACTION
+http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX CINEMA SD
+http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX CLASSICS SD
+http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AZ CINEMA 
+http://cinematicket.club/cantp.php?c=1787&p=3&k=tecnotv&f=.m3u8 
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
+http://cinematicket.club/cantp.php?c=85&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX  
+http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, SONY  
+http://cinematicket.club/cantp.php?c=48&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, WARNER  
+http://cinematicket.club/cantp.php?c=52&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, E!
+http://cinematicket.club/cantp.php?c=55&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, UNIVERSAL
+http://cinematicket.club/cantp.php?c=57&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, SYFY
+http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FX
+http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, A&E
+http://cinematicket.club/cantp.php?c=62&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AXN
+http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, UNICABLE SD
+http://cinematicket.club/cantp.php?c=66&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, SUNDANCE TV
+http://cinematicket.club/cantp.php?c=69&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TNT SERIES
+http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, GLITZ
+http://cinematicket.club/cantp.php?c=76&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, GOURMET 
+http://cinematicket.club/cantp.php?c=74&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, FOX LIFE
+http://cinematicket.club/cantp.php?c=77&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISTRITO COMEDIA SD
+http://cinematicket.club/cantp.php?c=78&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TRUTV
+http://cinematicket.club/cantp.php?c=79&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TL NOVELAS SD
+http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, LIFETIME 
+http://cinematicket.club/cantp.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, ANTENA 3
+http://cinematicket.club/cantp.php?c=199&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX HD 
+http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, WARNER HD 
+http://cinematicket.club/cantp.php?c=205&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, UNIVERSAL HD
+http://cinematicket.club/cantp.php?c=207&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FX HD
+http://cinematicket.club/cantp.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, TRUTV HD
+http://cinematicket.club/cantp.php?c=215&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, HOLA TV HD
+http://cinematicket.club/cantp.php?c=219&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, COMEDY CENTRAL
+http://cinematicket.club/cantp.php?c=340&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, COMEDY CENTRAL SD
+http://cinematicket.club/cantp.php?c=341&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, UNICABLE
+http://cinematicket.club/cantp.php?c=1499&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MAS CHIC
+http://cinematicket.club/cantp.php?c=1842&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, A3SERIES
+http://cinematicket.club/cantp.php?c=2113&p=3&k=tecnotv&f=.m3u8 
+
+*** DEPORTES ***
+#EXTINF:-1, ESPN + 
+http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ESPN 
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, ESPN 2
+http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX SPORTS
+http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 2
+http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TUDN
+http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 3 
+http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLF
+http://cinematicket.club/cantp.php?c=179&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AYM SPORTS
+http://cinematicket.club/cantp.php?c=180&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ESPN 3 
+http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TUDN HD (2)
+http://cinematicket.club/cantp.php?c=1049&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ADRENALINA SPORTS HD
+http://cinematicket.club/cantp.php?c=1799&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, LAS
+http://cinematicket.club/cantp.php?c=2089&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, HAVOC
+http://cinematicket.club/cantp.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, TVC DEPORTES
+http://cinematicket.club/cantp.php?c=2157&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CLARO SPORTS HD  
+http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FUEL TV HD 
+http://cinematicket.club/cantp.php?c=2587&p=3&k=tecnotv&f=.m3u8 
+
+*** CULTURALES ***
+#EXTINF:-1, DISCOVERY ID
+http://cinematicket.club/cantp.php?c=68&p=3&k=tecnotv&f=.m3u8  
+ #EXTINF:-1, GARAGE TV 
+http://cinematicket.club/cantp.php?c=75&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY CHANNEL
+http://cinematicket.club/cantp.php?c=86&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, ANIMAL PLANET
+http://cinematicket.club/cantp.php?c=88&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, HISTORY
+http://cinematicket.club/cantp.php?c=89&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NAT GEO  
+http://cinematicket.club/cantp.php?c=91&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NAT GEO WILD
+http://cinematicket.club/cantp.php?c=92&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://cinematicket.club/cantp.php?c=95&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, H&H
+http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TLC
+http://cinematicket.club/cantp.php?c=97&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE  
+http://cinematicket.club/cantp.php?c=98&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://cinematicket.club/cantp.php?c=99&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY WORLD
+http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, TVE
+http://cinematicket.club/cantp.php?c=198&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, SHOPPING
+http://cinematicket.club/cantp.php?c=1943&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, FOOD NETWORK 
+http://cinematicket.club/cantp.php?c=2145&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, STAR TVE 
+http://cinematicket.club/cantp.php?c=2375&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, DISCOVERY TURBO
+http://cinematicket.club/cantp.php?c=2379&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CURIOSITY STREAM
+http://cinematicket.club/cantp.php?c=2594&p=3&k=tecnotv&f=.m3u8  
+
+*** MUSICA ***
+#EXTINF:-1, MTV LIVE
+http://cinematicket.club/cantp.php?c=211&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MTV
+http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MTV HITS SD
+http://cinematicket.club/cantp.php?c=213&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, VH1 CLASSIC SD
+http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, VH1 SD 
+http://cinematicket.club/cantp.php?c=217&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TELEHIT URBANO SD
+http://cinematicket.club/cantp.php?c=218&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TELEHIT +
+http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BANDAMAX SD
+http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZ CLIC
+http://cinematicket.club/cantp.php?c=223&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, VH1 HD
+http://cinematicket.club/cantp.php?c=334&p=3&k=tecnotv&f=.m3u8  
+
+
+*** NOTICIAS ***
+#EXTINF:-1, FOROTV HD
+http://cinematicket.club/cantp.php?c=4&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, FOROTV SD
+http://cinematicket.club/cantp.php?c=19&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ADN40
+http://cinematicket.club/cantp.php?c=40&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ADN 40 HD
+http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CNN
+http://cinematicket.club/cantp.php?c=185&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CNN SD
+http://cinematicket.club/cantp.php?c=186&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CNN Ñ SD
+http://cinematicket.club/cantp.php?c=187&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, WOBI 
+http://cinematicket.club/cantp.php?c=102&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, FOXN EWS
+http://cinematicket.club/cantp.php?c=188&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BLOOMBERG 
+http://cinematicket.club/cantp.php?c=190&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BBC SD
+http://cinematicket.club/cantp.php?c=191&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, AL JAAZERA 
+http://cinematicket.club/cantp.php?c=192&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NTN 24
+http://cinematicket.club/cantp.php?c=194&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, JUSTICIA TV 
+http://cinematicket.club/cantp.php?c=196&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, HLN
+http://cinematicket.club/cantp.php?c=197&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, DW 
+http://cinematicket.club/cantp.php?c=203&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, RT
+http://cinematicket.club/cantp.php?c=999&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MILENIO HD
+http://cinematicket.club/cantp.php?c=1250&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MILENIO SD 
+http://cinematicket.club/cantp.php?c=1252&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, EXCELSIOR TV
+http://cinematicket.club/cantp.php?c=1449&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, EL FINANCIERO HD 
+http://cinematicket.club/cantp.php?c=1649&p=3&k=tecnotv&f=.m3u8  
+ #EXTINF:-1, RT ESPAÑOL
+http://cinematicket.club/cantp.php?c=2091&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, FRANCE 24
+http://cinematicket.club/cantp.php?c=2402&p=3&k=tecnotv&f=.m3u8 
