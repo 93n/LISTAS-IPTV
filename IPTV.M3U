@@ -1,164 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,-------------------
-http://tecnotv.club/rrt/-------------------
-#EXTINF:-1 ,*** NACIONALES ***
-http://tecnotv.club/rrt/***%20NACIONALES%20***
-#EXTINF:-1 ,100% Automoto (BG)
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 ,101.30 HIL31 Z101 (RD)
-http://14943.live.streamtheworld.com:3690/Z101FM_SC
-#EXTINF:-1 ,101.90 	HIL Amar FM (RD)
-http://node-21.zeno.fm/v3c46820fnruv?1574361481=&rj-tok=AAABbo9K_2MAqCl3pWk_YOy2eA&rj-ttl=5
-#EXTINF:-1 ,102.9 FM Radio Sancti Spiritus (Cuba)
-https://icecast.teveo.cu/NqWrgw7j
-#EXTINF:-1 ,103.90 FM Delta  La Romana (RD)
-http://radio.domiplay.net:5240/stream/1/
-#EXTINF:-1 ,104.10 	HIL70 Caliente 104  (RD)
-http://radio7a.domint.net:8064/;
-#EXTINF:-1 ,104.10 FM Sonido Alegre  Espaillat
-http://puertoplataradio.com:8006/stream/1/
-#EXTINF:-1 ,105.1 FM Mega  (RD)
-http://radio7a.domint.net:8170/stream/1/
-#EXTINF:-1 ,105.3 FM Radio Cadena Agramonte (Cuba)
-https://icecast.teveo.cu/j99xztkT
-#EXTINF:-1 ,105.30 HIL87 Vida FM  (RD)
-http://paginas.moisespaulino.com:8036/stream?type=.mp3
-#EXTINF:-1 ,105.50 Radio Ven (RD)
-http://s1media.hosting.nassever.com:6004/radioven1055
-#EXTINF:-1 ,106.10 FM Criolla  Santiago (RD)
-http://rgradio.net:8060/criolla106.mp3
-#EXTINF:-1 ,106.3 FM Perla  Puerto Plata
-http://radio7a.domint.net:8216/stream/1/
-#EXTINF:-1 ,106.9 FM Radio La Nueva  (RD)
-http://procyon.shoutca.st:8807/stream/1/
-#EXTINF:-1 ,1060 HIAJ Radio Amanecer  (RD)
-http://radioamanecer.soluvision.net:9035/;?1572058562295
-#EXTINF:-1 ,107.50 FM La Romana (RD)
-http://radio.domiplay.net:9200/stream/1/
-#EXTINF:-1 ,11 Hamaika TV
-https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
-#EXTINF:-1 ,1200 HIAH Radio VEN (RD)
-http://s1media.hosting.nassever.com:6002/radioven1200
-#EXTINF:-1 ,1240 Radio María  (RD)
-http://dreamsiteradiocp4.com:8100/;stream.mp3%20
-#EXTINF:-1 ,1240 Radio Vaticano
-http://live.vaticanwebradio.org/channel4.mp3
-#EXTINF:-1 ,13 Max (Argentina)
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:-1 ,1470 AM Vibra (RD)
-http://radio7a.domint.net:8092/stream/1/
-#EXTINF:-1 ,1680 AM Radio Senda (RD)
-http://209.126.69.145:8004/;
-#EXTINF:-1 ,1TV Crimea
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 ,24 TV Culturales (Peru)
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1 ,24h
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 ,24H
-http://tecnotv.club/rrt/smtv.php?c=331_&f=.m3u8
-#EXTINF:-1 ,24h Catalunya
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
-#EXTINF:-1 ,25 TV
-http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
-#EXTINF:-1 ,30A Music
-http://30a-tv.com/music.m3u8
-#EXTINF:-1 ,30A TV
-http://30a-tv.com/my999.m3u8
-#EXTINF:-1 ,324
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
-#EXTINF:-1 ,33
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
-#EXTINF:-1 ,360° (Opt-2)
-http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 ,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 ,3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 ,47 Kanal
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-#EXTINF:-1 ,538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
-#EXTINF:-1 ,620 HISD Radio Santo Domingo  (RD)
-http://69.163.34.102:8630/;
-#EXTINF:-1 ,650 HIAT Radio Universal (RD)
-http://192.99.44.11:1488/stream
-#EXTINF:-1 ,750 AM Radio Jesús  Santiago (RD)
-http://paginas.moisespaulino.com:8005/stream
-#EXTINF:-1 ,760 AM Radio Reloj
-https://icecast.teveo.cu/b3jbfThq
-#EXTINF:-1 ,7TV | SD
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 ,8 La Janda
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 ,86 Channel Surgut
-https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1 ,88 Stereo (Costa Rica)
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 ,88.70 La Luz (RD)
-https://streamingv2.shoutcast.com/la-luz-887-fm
-#EXTINF:-1 ,88.90 FM Disco 89  Santiago (RD)
-http://radio2.rgradio.net:9020/disco89.mp3
-#EXTINF:-1 ,89.70 HIJ43 Radio Renuevo (RD)
-http://radiotvstream.com:8031/renuevo.mp3
-#EXTINF:-1 ,90.10 HIJ48 Fuego 90 (RD)
-http://209.126.116.143:9222/;stream.mp3
-#EXTINF:-1 ,90.30 FM Radio San Juan (RD)
-http://radio.domiplay.net:9438/stream/1/
-#EXTINF:-1 ,91.70 FM Melody  (RD)
-http://puertoplataradio.com:8022/stream/1/
-#EXTINF:-1 ,91.90 Amor  FM La Romana (RD)
-http://radio.domiplay.net:9190/stream/1/
-#EXTINF:-1 ,92.10 	HIJ76 Hits 92 (RD)
-http://radio2.rgradio.net:8520/hits92.mp3
-#EXTINF:-1 ,92.50 	HIJ83 CDN Radio (RD)
-http://104.197.151.190/cdnlive
-#EXTINF:-1 ,92.9 FM Orbita  Puerto Plata
-http://puertoplataradio.com:8004/stream/1/
-#EXTINF:-1 ,92.90 	HIJ87 Pura Vida FM (RD)
-http://23.239.68.71:9700/;stream.mp3
-#EXTINF:-1 ,93.70 	HIJ95 Latidos FM (RD)
-http://72.29.87.97:8010/stream/1/
-#EXTINF:-1 ,94.1 FM Radio Enciclopedia (Cuba)
-https://icecast.teveo.cu/9Rnrbjzq
-#EXTINF:-1 ,94.10 	HIJ99 Fidelity 94.1  (RD)
-http://playerservices.streamtheworld.com/api/livestream-redirect/FIDELITY.mp3
-#EXTINF:-1 ,94.7 FM Radio Ciudad de La Habana (Cuba)
-https://icecast.teveo.cu/g73XCjCH
-#EXTINF:-1 ,95.30 FM  Radio Arca De Salvación Puerto Plata
-http://puertoplataradio.com:8000/stream/1/
-#EXTINF:-1 ,950 HIIG Radio Popular  (RD)
-http://radio7a.domint.net:8060/stream
-#EXTINF:-1 ,96.10 	HIK42 Quisqueya FM (RD)
-http://69.163.34.102:8620/;
-#EXTINF:-1 ,96.30 La Kalle  Santiago Rodríguez
-http://www.streamingvc.net:9052/stream/1/
-#EXTINF:-1 ,96.7 FM Radio Rebelde (Cuba)
-https://icecast.teveo.cu/zrXXWK9F
-#EXTINF:-1 ,96.70 FM  Pura Vida 967 (RD)
-http://23.239.68.71:9778/stream/1/
-#EXTINF:-1 ,96.90 	HIK52 Exa FM  (RD)
-http://72.29.87.97:8048/;
-#EXTINF:-1 ,97.10 La 97.1 FM (Montecristi)
-http://stream7a.domint.net:8090/stream/1/
-#EXTINF:-1 ,97.50 La Mega  FM (RD)
-http://vip.livecastnet.com:8000/capitalmega.mp3
-#EXTINF:-1 ,97.90 Estudio  (RD)
-http://paginas.moisespaulino.com:8067/stream
-#EXTINF:-1 ,98.10 HIK69 Radio Amanecer (RD)
-http://radioamanecer.soluvision.net:9035/;?1572045827173
-#EXTINF:-1 ,98.3 FM Radio Metropolitana (Cuba)
-https://icecast.teveo.cu/ktW3mW74
-#EXTINF:-1 ,98.30 FM Raíces  (RD)
-http://stream1.servercristianonetwork.com:8236/live
-#EXTINF:-1 ,98.90 HIK77 Domincana FM (RD)
-http://69.163.34.102:8610/stream/1/
-#EXTINF:-1 ,99.1 FM CMBF Radio (Cuba)
-https://icecast.teveo.cu/Nbtz7HT3
-#EXTINF:-1 ,99.10 FM Cosmos (RD)
-https://radio4.domint.net:8104/stream
-#EXTINF:-1 ,99.70 Radio Fortaleza Mia (RD)
-http://node-13.zeno.fm/zgsquzkxz1zuv.aac?rj-ttl=5&rj-tok=AAABcnxcjv8Aws__Xbqifc6Hwg
 #EXTINF:-1 ,A MAS MX
 http://tecnotv.club/rrt/smartv2.php?c=1_&f=.m3u8
 #EXTINF:-1 ,À Punt
@@ -503,6 +343,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3
 #EXTINF:-1 ,Cadena SER - Radio Huesca
 http://streaming.radiohuesca.com:8010/radiohuescaam
+#EXTINF:-1 ,Cadena SER - Radio Mallorca
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3
 #EXTINF:-1 ,Cadena SER - Radio Murcia
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3
 #EXTINF:-1 ,Cadena SER - Radio Pamplona
@@ -533,8 +375,6 @@ http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
 #EXTINF:-1 ,Camara de Diputados | SD
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:-1 ,Campus TV (Honduras)
-http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1 ,Canal 10
 https://www.canal10.tv/live/tvlive1/chunklist_w1877709234.m3u8
 #EXTINF:-1 ,Canal 10 Chetumal | HD
@@ -595,6 +435,8 @@ http://tecnotv.club/rrt/smartv2.php?c=134_&f=.m3u8
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 ,CANAL 8
 http://tecnotv.club/rrt/geomex2.php?c=2307&p=3&k=srregio&f=.m3u8%20%20
+#EXTINF:-1 ,Canal CNC Medellin (Colombia)
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 #EXTINF:-1 ,Canal CNC Pasto (Colombia)
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 #EXTINF:-1 ,CANAL DE LAS ESTRELLAS
@@ -643,6 +485,8 @@ http://tecnotv.club/rrt/smartv2.php?c=74_&f=.m3u8
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 ,CARACOL TV
 http://tecnotv.club/rrt/smtv.php?c=59_&f=.m3u8
+#EXTINF:-1 ,Carivision (RD)
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
 #EXTINF:-1 ,Carrussel FM
 http://server10.emitironline.com:8921/stream
 #EXTINF:-1 ,CARTOON NETWORK
@@ -845,6 +689,8 @@ http://85.25.217.22:8110/stream
 https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3
 #EXTINF:-1 ,Cornerstone TV (US)
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:-1 ,Cosmo
+http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-1 ,CPAC  (Canadá)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
 #EXTINF:-1 ,Cruise1st TV
@@ -1155,6 +1001,8 @@ https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:-1 ,FashionTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
+#EXTINF:-1 ,Fibwi Radio
+http://stream.fibwi.com:9000/stream
 #EXTINF:-1 ,FILM &amp; ARTS
 http://tecnotv.club/rrt/smartv2.php?c=1527_&f=.m3u8
 #EXTINF:-1 ,Filmon 360
@@ -1283,6 +1131,8 @@ http://tecnotv.club/rrt/smtv.php?c=10_&f=.m3u8
 http://tecnotv.club/rrt/geomex2.php?c=188&p=3&k=srregio&f=.m3u8%20%20
 #EXTINF:-1 ,FR France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 ,France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 ,France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,FRANCE 24
@@ -1427,6 +1277,8 @@ http://tecnotv.club/rrt/smartv2.php?c=229_&f=.m3u8
 http://tecnotv.club/rrt/smartv2.php?c=1536_&f=.m3u8
 #EXTINF:-1 ,HBO XTREME
 http://tecnotv.club/rrt/smtv.php?c=35_&f=.m3u8
+#EXTINF:-1 ,Hechos | SD (Ecuador)
+http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 ,Hermosa Radio (RD)
 http://192.99.8.170:6571/stream/1/
 #EXTINF:-1 ,HISTORY
@@ -1501,6 +1353,12 @@ https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv
 http://tecnotv.club/rrt/geomex2.php?c=135&p=3&k=srregio&f=.m3u8%20%20
 #EXTINF:-1 ,I SAT
 http://tecnotv.club/rrt/smtv.php?c=86_&f=.m3u8
+#EXTINF:-1 ,IB3 Ràdio
+http://streaming01.ib3radio.com:8000/ib3radio.mp3
+#EXTINF:-1 ,Ibiza Global Radio
+http://ibizaglobalradio.streaming-pro.com:8024/stream
+#EXTINF:-1 ,ibizaSonica
+http://s1.sonicabroadcast.com:7005/;stream/1
 #EXTINF:-1 ,Iglesia Ciudad de Refugio (RD)
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-1 ,ILTV
@@ -1727,6 +1585,8 @@ http://tecnotv.club/rrt/geomex2.php?c=44&p=3&k=srregio&f=.m3u8
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 ,Mi TV
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-1 ,Microvision (RD)
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
 #EXTINF:-1 ,Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 ,MILENIO HD
@@ -2069,6 +1929,8 @@ http://status.tehw00t.net/miniProxy.php/https://live-cdn.pbskids.org/out/u/est.m
 http://tecnotv.club/cono/pluto.php?c=5e98b0447665f200078caded
 #EXTINF:-1 ,Pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 ,PHTV (RD)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 ,Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1 ,PinguinoTV
@@ -2157,6 +2019,8 @@ https://listen.radionomy.com/1-radio-dance
 http://audio1.ipercast.net/endirecto22.es/mp3
 #EXTINF:-1 ,Radio Exterior
 http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8
+#EXTINF:-1 ,Radio Fene
+http://srv0490.lcinternet.com:8002/stream
 #EXTINF:-1 ,Radio Fuga
 http://radiogestion.com:7090/radiofuga
 #EXTINF:-1 ,Radio Galega
@@ -2177,6 +2041,8 @@ https://icecast.teveo.cu/Rsrm7P9h
 http://srv0410.lcinternet.com:8013/stream
 #EXTINF:-1 ,Radio Mijas
 https://wecast-b03-03.flumotion.com/mijas-radio/shoutcast.mp3
+#EXTINF:-1 ,Radio Municipal de Tui
+http://srv01.redsanmarcos.com:8022/stream
 #EXTINF:-1 ,Radio Murta
 http://91.121.156.27:8013/stream
 #EXTINF:-1 ,Radio Nacional
@@ -2209,8 +2075,12 @@ http://s37.myradiostream.com/8638/listen.mp3
 http://streaming.radioutopia.org.es:8000/radio-utopia.mp3
 #EXTINF:-1 ,Radio Vallekas
 http://cervera.eldialdigital.com:8032/;
+#EXTINF:-1 ,Radio Voz
+http://live.radiovoz.es/mp3/stream_santiago.mp3
 #EXTINF:-1 ,Radio Zaragoza
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
+#EXTINF:-1 ,Radiofusión
+http://srv0411.lcinternet.com:9005/stream
 #EXTINF:-1 ,Radiolé
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
 #EXTINF:-1 ,Radost Moya
@@ -2447,6 +2317,8 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:-1 ,SUNDANCE TV
 http://tecnotv.club/rrt/geomex2.php?c=69&p=3&k=srregio&f=.m3u8%20
+#EXTINF:-1 ,Super Canal 33 (RD)
+http://190.122.96.186:8888/http/005
 #EXTINF:-1 ,Super Geek Heroes (Kids)
 https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8
 #EXTINF:-1 ,SuperTV55 (RD)
@@ -2563,8 +2435,6 @@ http://video.telesafor.com/hls/video.m3u8
 http://video.telesafor.com/hls/video_high.m3u8
 #EXTINF:-1 ,TeleSUR  (Venezuela)
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 ,Telesur (Costa Rica)
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 ,TeleSUR (VE)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 ,Teleunion (RD)
@@ -2621,8 +2491,6 @@ https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 ,The Weather Network
 http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-#EXTINF:-1 ,Ticavision | SD
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 ,TIGO SPORTS
 http://tecnotv.club/rrt/smtv.php?c=201_&f=.m3u8
 #EXTINF:-1 ,Tivikom Ulan-Udje
@@ -2705,8 +2573,6 @@ http://tecnotv.club/rrt/smartv2.php?c=267_&f=.m3u8
 http://tecnotv.club/rrt/smartv2.php?c=1782_&f=.m3u8
 #EXTINF:-1 ,Tugan Tel
 http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
-#EXTINF:-1 ,Turbo Mix Radio TV | SD
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 #EXTINF:-1 ,TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 #EXTINF:-1 ,TV Canal Vasco
@@ -2853,6 +2719,8 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 ,Ugra TV
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 ,Última Hora Radio
+http://stream.fibwi.com:9020/stream
 #EXTINF:-1 ,UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:-1 ,UN Web TV
@@ -2915,6 +2783,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuusatodaynews/C
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 ,V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 ,Vallevision (RD)
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:-1 ,Ve Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1 ,Vega Teve (RD)
