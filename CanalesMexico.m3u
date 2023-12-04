@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:20,playlist.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:60,CNN Internacional
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTINF:1800,DW Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,DW Alemania EN
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,DW Alemania DE
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:0,FOX Live Now USA EN
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0,ABC News USA EN
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,CBS News USA EN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0,Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:0,Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:9,Hispan TV Iran
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+#EXTINF:0,Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,FORO TV Mexico
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0,ADN40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,Canal Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:0,Turistik TV Mexico
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+#EXTINF:0,Noticias Caracol Colombia
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:0,CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,CGTN
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:0,CGTN News EN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0,CGTN Documentary EN
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0,Al Jazeera Qatar EN
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,Al Jazeera Qatar AR
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0,NHK World Japan EN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0,Nippon News TV Japan
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:0,Arirang TV Korea EN
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,Al Arabiya Emiratos Árabes AR
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0,Dubai One Emiratos Árabes EN
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0,Geo News Pakistan
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#EXTINF:0,India Today EN
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:0,India Today
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:0,New Delhi TV 24x7 India EN
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0,Times Now India EN
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0,Times Now India EN
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:0,Republic World TV India EN
+https://weblive.republicworld.com/httppush/ottr_republic_english/master.m3u8
+#EXTINF:0,Channel NewsAsia EN
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
